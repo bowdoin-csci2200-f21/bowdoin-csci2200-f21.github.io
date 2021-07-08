@@ -15,12 +15,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CSCI 2200 (Algorithms), Fall 21, Bowdoin College"
+title: "CSCI 2200, Fall 21"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
 
-description: Website for  csci2200,  Bowdoin College
+description: Website for  csci2200 (ALgorithms), Fall 21,  Bowdoin College
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bowdoin-csci2200.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
