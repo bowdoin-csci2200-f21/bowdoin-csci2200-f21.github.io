@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Labs
+#title: Labs
 nav_order: 3
 ---
 
