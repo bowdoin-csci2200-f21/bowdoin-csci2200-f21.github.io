@@ -17,7 +17,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "CSCI 2200, Fall 21"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+#color_scheme: "light"
 search_enabled: false
 
 description: Website for  csci2200 (ALgorithms), Fall 21,  Bowdoin College
