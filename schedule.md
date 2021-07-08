@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule
+#title: Schedule
 nav_order: 2
 ---
 
