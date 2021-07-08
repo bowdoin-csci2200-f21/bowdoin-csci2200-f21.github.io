@@ -1,1 +1,5 @@
-theme: just-the-docs
+
+title: "CSCI 2200"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
