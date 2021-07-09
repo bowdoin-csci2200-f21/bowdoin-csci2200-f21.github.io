@@ -5,14 +5,14 @@ nav_order: 1
 ---
 
 
-## Algorithms
-## Fall'21, Bowdoin College 
+## Algorithms <hr> Fall'21, Bowdoin College 
 
-*Instructor:* Laura Toma 
+__Instructor:__ Laura Toma 
 
-*Meeting times:* Mon, Wed & Fri 10:05-11:30am
+__Meeting times:__ Mon, Wed & Fri 10:05-11:30am
 
-*Where:* Searles 127
+__Where:__ Searles 127
+
 
 
 ### Welcome to Algorithms!
