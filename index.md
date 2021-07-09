@@ -5,21 +5,22 @@ nav_order: 1
 ---
 
 
-# Algorithms,  Fall'21, Bowdoin College 
+# Algorithms,  Fall 2021, Bowdoin College 
 
 
 **Instructor:** Laura Toma 
 
-**Meeting times:** Mon, Wed & Fri 10:05-11:30am
+**Meeting time:** Mon, Wed & Fri 10:05-11:30am
 
 **Where:** Searles 127
-
-
 
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm! This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.
 
 Overall,  the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
+
+**Prerequisites:** csci 2101 (Data Structures)
+
 
 ### Learning Goals
 
@@ -31,37 +32,41 @@ By the end of this course, you should be able to:
       3. Use them as building blocks to design solutions to new problems 
   2. Demonstrate understanding of fundamental algorithmic design techniques (recursion, divide-and-conquer, greedy and dynamic programming)
   3. Understand and apply the process of designing efficient algorithms
-    1. Come up with ideas
-    2. Argue whether they are correct
-    3. Analyze their theoretical complexity and compare them
-    4. Ask: Can we do better?
+      1. Come up with ideas
+      2. Argue whether they are correct
+      3. Analyze their theoretical complexity and compare them
+      4. Ask: Can we do better?
   4. Demonstrate the ability to design and analyze algorithms for new problems 
 
 
 ### Getting Ready for the Course
-
 We'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search; big-oh; best cases and worst cases. If you are not sure what these mean, you probably want to go back and review them in order to make the beginning of the class smoother.  
 In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter logarithms and exponents. If you have not seen logarithms and exponents in a long time, it's a good idea to review them. 
 These are all fundamental concepts and there are plenty of resources on the Internet. 
 
-Weekly Flow: How will this class work?
-This is an online class, which means that  all  materials will be posted for you to engage with them at home, asynchronously, that is, at your  time and pace. The class will meet synchronously twice a week, and these synchronous meetings will be to answer your questions, solve problems working in groups with your peers,  and build a classroom community.
+### Weekly flow: How will this class work?
+The class meets (in-person) three times a week.    Each week we'll focus on a  topic and  work on a problem set.  Roughly speaking, the first two meetings of the week  are dedicated to going over the topic (the lecture).  The last meeting, designated as the _lab_, is specifically for you to work on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you and answer your questions. 
 
 Here's the weekly timeline:
-Read the lecture notes and watch the video recordings:  Each week, your first task is to read/watch the materials for that week (lectures notes and the videos) and make a list of specific questions which you'll bring to the meetings.  It is expected that you will understand the basic ideas and results, but perhaps need clarifications with some details. 
-           Time to budget: approx. 3 hours. Note: In a regular semester, the lecture would total about 3 hours. 
-Pre-meeting check: This will cover very basic questions from the lecture. You need to do this pre-check before attending the first weekly meeting (note: This semester, this would be Wednesdays at 3pm). 
-           Time to budget: 15 minutes
-Attend the synchronous meetings: These weekly (zoom) meetings will be dedicated to going over your questions, working in groups, engaging with practice problems and building a class community. Before coming to the zoom meetings you need to study the materials for that week and do the pre-check.
-           Time to budget: 3 hour
-Review and  practice: Review  the week practice problems and their solutions; review the lectutre notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding. Work on the problems in the current assignment.   Finding a partner (or a group) to work with is strongly encouraged. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
-            Time to budget: 3 hours
-Take the weekly quiz.
-           Time to budget: (up to) 1 hour
-Reflection. Throughout the semester there'll be different reflection forms.
-           Time to budget: 15 minutes 
 
-Time Commitment
+  1. **Read the lecture notes.**    Each week, your first task is to read  the materials for that week (lectures notes).  It is expected that you will understand the basic ideas and results, but perhaps need clarifications with some details. 
+    * Time to budget:  2 hours.
+
+  2. **Pre-meeting check.**  This will cover very basic questions from the lecture. You need to do this pre-check before attending the first weekly meeting. 
+    * Time to budget: 15 minutes
+           
+  3. **Attend the weekly meetings.** Get your questions answered and complete the problem set. 
+    * Time to budget: approx. 4.5 hours. 
+
+  4. **Take the weekly quiz.** Review  the week practice problems and their solutions; review the lecture notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding.Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
+    * Time to budget: 3 hours 
+  5. Work on the current assignment 
+    * Time to budget: 2 hours 
+
+
+  
+##Time Commitment
+
 You probably heard this before, taking a 4-class load is like having a full-time job in which you are expected to work at least 40 hours a week. You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
 What you can expect from me
 My goal is to maintain the class to the same standard  as if it were "in-person". That is, the class will cover the same topics, and will not drop any materials. To support the learning I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes. Stay assured that at the end of the semester you will have learnt precisely the same topics and worked through the same problems --- as if you took this class  in a regular semester on campus. 
