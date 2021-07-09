@@ -5,7 +5,18 @@ nav_order: 1
 ---
 
 
+## Algorithms
+## Fall'21, Bowdoin College 
+
+*Instructor:* Laura Toma 
+
+*Meeting times:* Mon, Wed & Fri 10:05-11:30am
+
+*Where:* Searles 127
+
+
 ### Welcome to Algorithms!
+
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm! This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.
 
