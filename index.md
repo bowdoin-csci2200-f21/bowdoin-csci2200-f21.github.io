@@ -105,6 +105,14 @@ Below is the list of assessments throughout the semester:
 
 ### Grading policy
 
+The final grade will be computed based on the pre-checks , 13 quizzes and 7 assignments: 
+
+Pre-checks:     12 total,  drop two lowest: 10% 
+Quizzes:        13 quizzes, drop 1 lowest: 60%
+Assignments:    7 assignments: 30% 
+Class participation: tie breaker 
+
+
 
 ### Key Tips
 You will probably find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction. Adding to that, coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions. It is important that you know this ahead of time and you start preparing mentally for a challenging course.
