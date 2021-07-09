@@ -1,4 +1,4 @@
 
-This repo contains the website for csci 2200, Fall'21
+This repo contains the website for csci 2200 (Algorithms), Fall'21, Bowdoin College 
 
-This site will be published at https://bowdoin-csci2200-f21.github.io/
+The site will be published at https://bowdoin-csci2200-f21.github.io/
