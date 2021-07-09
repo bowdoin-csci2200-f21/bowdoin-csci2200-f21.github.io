@@ -74,6 +74,7 @@ Here's the weekly timeline:
 ### Time Commitment
 You probably heard this before, taking a 4-class load is like having a full-time job in which you are expected to work at least 40 hours a week. You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
 
+
 ### What you can expect from me
 My goal is to maintain the class to the same standard  as the peer institutions. I often choose problems from the top R1 universities such as Stanford, MIT, Berkeley. The class syllabus is packed, and you will find the pace and the problems challenging. To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
 
@@ -103,14 +104,6 @@ Below is the list of assessments throughout the semester:
 
 
 ### Grading policy
-
-The final grade will be computed based on the pre-checks , 13 quizzes and 7 assignments: 
-
-Pre-checks:     12 total,  drop two lowest: 10% 
-Quizzes:        13 quizzes, drop 1 lowest: 60%
-Assignments:    7 assignments: 30% 
-Class participation: tie breaker 
-
 
 
 ### Key Tips
