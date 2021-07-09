@@ -50,61 +50,70 @@ The class meets (in-person) three times a week.    Each week we'll focus on cert
 
 Here's the weekly timeline:
 
-  1. **Read the lecture notes.**    Each week, your first task is to read  the materials for that week (lecture notes). Before coming to class each week  it is expected that you will understand the basic ideas and results, but need clarifications with some details. 
+  1. **Read the lecture notes.**    Each week, before coming to class, your first task is to preview  the materials for that week (lecture notes). It is expected that you will understand the basic ideas and results, but need clarifications with some details. 
    
      * Time to budget:  2 hours.
 
-  2. **Pre-meeting check.**  Every week, before coming to the first meeting, you need to take the weekly pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions.  This will cover very basic questions from the lecture. You need to do this pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and will retain the highest score. It is open books and  no time limit.  
+  2. **Pre-meeting check.**  Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
    
      * Time to budget: 15 minutes
            
-  3. **Attend the weekly meetings.** Get your questions answered and complete the problem set. 
+  3. **Attend the weekly meetings.** Between listening to the lectures and working with your peers on problems, the goal is to  
    
-    * Time to budget: approx. 4.5 hours. 
+     * Time to budget: 4.5 hours. 
 
-  4. **Take the weekly quiz.** Review  the week practice problems and their solutions; review the lecture notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding.Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
-    
-    * Time to budget: 3 hours 
+  4. **Prepare and take the weekly quiz.** Review  the week practice problems and their solutions; review the lecture notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
+    * Time to budget: 1-3 hours 
   
-  5. Work on the current assignment 
+  5. Work on the current **assignment**.
   
-    * Time to budget: 2 hours 
+   * Time to budget: 2 hours 
 
 
   
-##Time Commitment
-
+### Time Commitment
 You probably heard this before, taking a 4-class load is like having a full-time job in which you are expected to work at least 40 hours a week. You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
-What you can expect from me
-My goal is to maintain the class to the same standard  as if it were "in-person". That is, the class will cover the same topics, and will not drop any materials. To support the learning I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes. Stay assured that at the end of the semester you will have learnt precisely the same topics and worked through the same problems --- as if you took this class  in a regular semester on campus. 
-At the same time, I am also committed to being flexible. Please don't hesitate to let me know if you have any circumstances that hinder your learning, and we will work together to make an alternate plan.
-Assignments, Assessment and Grading 
-Below is the list of assignments and assessments that you can expect during the semester, and how they are taken into account in the overall grade. 
-Ungraded formative assessments: Each week, for each topic,  I will provide a combination of study questions, self-quizzes and practice quizzes. These are not graded. They are provided to support your learning. We'll spend the synchronous meetings working with these problems. 
-Pre-meeting checks:  There will be 10-12 pre-meeting checks, which are meant to be taken after working with the asynchronous lecture materials, and before coming to the first weekly meeting. These checks will be very easy, and their goal is simply to help you stay on track every week.
-Assignments: There will be 4-6 assignments throughout the semester. Each assignment will consist of O(1) new problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
-Quizzes: There will be a total of 15 quizzes, one per week. The quizzes will  be administered via Blackboard, and will be a combination of multiple-choice and short answer. Expect them to be short (at most one hour, but often shorter)  and focused on the specific topic discussed that week. 
-[Exams: There will be no exams.]
-Assignments and  Partner  Policy
-The assignments will be hard. They will consist of new problems, sometimes seemingly unrelated to the class topics, which you will have to solve. Remember, one of the goals of the class is to provide the conceptual tools so that you can come up with solutions to new problems, on your own --- and that's the role of  the assignments.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.
-You may work on the assignments in a team (of at most 3 people). You can have the same team for all assignments, or you can change partners. You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by both partners. Specifically splitting the assignmen and working on them separately is not allowed and violates the honor code for the class.
-Grading policy
-The final grade will be computed based on 10 pre-checks, 13 quizzes and 5 assignments: 
-Pre-checks:     10 checks x 1 point = 10 points
-Quizzes:          13 quizzes x 5 points = 65 points
-Assignments:    5 assignments x 5 points = 25 points
-Journal, discussions and class part: tie beraking 
-The goal is to provide more than this number of assessments so that at the end everyone can drop their lowest (quiz, pre-quiz) score. For example, if we'll end up with 12 pre-checks and 14 quizzes , this means that you'll be able to drop your lowest 2 pre-checks, and drop your lowest  quiz. 
 
-Group Work
-Collaboration and discussion are crucial for this class in general, and especially this semester because it is online. You are encouraged to engage with the problems and discuss with peers as much as you can. You will most likely find that you will gain a better understanding of the material by discussing the problems with peers.
-Our goal is to ensure that the collaboration is appropriate and effective, and that you become an independent problem solver capable to do work on your own. All students are expected to be familiar with and to comply with the department's collaboration policy  and the four levels of collaboration it outlines. Specifically for this class,
-All work towards understanding the lectures, including study questions, practice problems and self-quizzes are  (unless otherwise specified)  at collaboration-level 0; that is, no restrictions.
-The assignments, unless otherwise specified, will be at collaboration-level 1; that is, verbal collaboration without solution sharing. You are allowed and encouraged to discuss ideas with other class members, but the communication should be verbal. No one is allowed to take notes during the discussion (being able to recreate the solution later from memory is proof that you actually understood it). Communication cannot include sharing pseudo-code for the problem.
-All pre-checks, quizzes and exams will be at collaboration-level 3 (no collaboration allowed, professor clarifications only).
-While peer instruction can be immensely useful, it can also harm. Once you have an idea, or you found a solution, resist giving hints to your peers or leading them towards the answer. You are not helping them by doing so. Direct them towards the TAs who are trained to give help.
-Remember that you are responsible for reading, understanding, and adhering to the department policy. If you have any questions about any aspects of the policy, please do not hesitate to ask for clarification.
-Key Tips
+### What you can expect from me
+My goal is to maintain the class to the same standard  as the peer institutions. I often choose problems from the top R1 universities such as Stanford, MIT, Berkeley. The class syllabus is packed, and you will find the pace and the problems challenging. To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
+
+At the same time, I am also committed to being flexible. Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan. 
+
+
+### Find the level that's right for you
+Based on your background, some of you will put in more or less time than what I suggested above. If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you'll need to alloate more time to grasp those concepts. If your logarithms are still fresh and you finish faster, take a look at the optional problems or just send me an email. 
+
+ 
+
+### Assignments/Assessments and Grading 
+Below is the list of assessments throughout the semester:  
+
+- In-lecture ungraded exercises:  Lectures notes provide a combination of study questions and practice quizzes. These are not graded and are meant to support your learning. 
+
+- Pre-meeting checks:  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, and their goal is simply to help you stay on track every week.
+
+-  Labs: There are 13 labs. The weekly labs consist of problem sets. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
+    -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
+
+- Quizzes: There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short (at most one hour, but often shorter)  and focused on the specific topic discussed that week. 
+
+- Exams: There will be no exams.
+
+- Assignments: There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1) new problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+
+
+### Grading policy
+
+The final grade will be computed based on the pre-checks , 13 quizzes and 7 assignments: 
+
+Pre-checks:     12 total,  drop two lowest: 10% 
+Quizzes:        13 quizzes, drop 1 lowest: 60%
+Assignments:    7 assignments: 30% 
+Class participation: tie breaker 
+
+
+
+### Key Tips
 You will probably find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction. Adding to that, coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions. It is important that you know this ahead of time and you start preparing mentally for a challenging course.
 Here are some suggestions for doing well in class:
 Budget your time as suggested above and give yourself plenty of time to read the materials and work on the assignments each week. Plan on 10-12 hours a week, and make a schedule which you follow every week. 
