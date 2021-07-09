@@ -44,23 +44,30 @@ We'll spend the first week reviewing problems and concepts from Data Structures,
 In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter logarithms and exponents. If you have not seen logarithms and exponents in a long time, it's a good idea to review them. 
 These are all fundamental concepts and there are plenty of resources on the Internet. 
 
+
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week.    Each week we'll focus on a  topic and  work on a problem set.  Roughly speaking, the first two meetings of the week  are dedicated to going over the topic (the lecture).  The last meeting, designated as the _lab_, is specifically for you to work on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you and answer your questions. 
+The class meets (in-person) three times a week.    Each week we'll focus on certain topics and  work on a problem set.  Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (the lecture).  The last meeting, designated as the _lab_, is  for you to work on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
 
 Here's the weekly timeline:
 
-  1. **Read the lecture notes.**    Each week, your first task is to read  the materials for that week (lectures notes).  It is expected that you will understand the basic ideas and results, but perhaps need clarifications with some details. 
-    * Time to budget:  2 hours.
+  1. **Read the lecture notes.**    Each week, your first task is to read  the materials for that week (lecture notes). Before coming to class each week  it is expected that you will understand the basic ideas and results, but need clarifications with some details. 
+   
+     * Time to budget:  2 hours.
 
-  2. **Pre-meeting check.**  This will cover very basic questions from the lecture. You need to do this pre-check before attending the first weekly meeting. 
-    * Time to budget: 15 minutes
+  2. **Pre-meeting check.**  Every week, before coming to the first meeting, you need to take the weekly pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions.  This will cover very basic questions from the lecture. You need to do this pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and will retain the highest score. It is open books and  no time limit.  
+   
+     * Time to budget: 15 minutes
            
   3. **Attend the weekly meetings.** Get your questions answered and complete the problem set. 
+   
     * Time to budget: approx. 4.5 hours. 
 
   4. **Take the weekly quiz.** Review  the week practice problems and their solutions; review the lecture notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding.Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
+    
     * Time to budget: 3 hours 
+  
   5. Work on the current assignment 
+  
     * Time to budget: 2 hours 
 
 
