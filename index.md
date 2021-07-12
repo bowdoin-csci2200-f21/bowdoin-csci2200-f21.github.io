@@ -29,11 +29,11 @@ By the end of this course, you should be able to:
   1. Demonstrate understanding of fundamental computational problems and the algorithms that were proposed to solve them
       1. Illustrate how these algorithms work
       2. Analyze their theoretical complexity 
-      3. Use them as building blocks to design solutions to new problems 
+      3. Use them as building blocks to design algorithms for new problems 
   2. Demonstrate understanding of fundamental algorithmic design techniques (recursion, divide-and-conquer, greedy and dynamic programming)
   3. Understand and apply the process of designing efficient algorithms
       1. Come up with ideas
-      2. Argue whether they are correct
+      2. Argue whether they are correct or incorrect (come up with counter-examples)
       3. Analyze their theoretical complexity and compare them
       4. Ask: Can we do better?
   4. Demonstrate the ability to design and analyze algorithms for new problems 
@@ -41,12 +41,14 @@ By the end of this course, you should be able to:
 
 ### Getting Ready for the Course
 We'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search; big-oh; best cases and worst cases. If you are not sure what these mean, you probably want to go back and review them in order to make the beginning of the class smoother.  
-In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter logarithms and exponents. If you have not seen logarithms and exponents in a long time, it's a good idea to review them. 
-These are all fundamental concepts and there are plenty of resources on the Internet. 
+In the first 3 weeks we'll dive deeper into analysis, which means we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, it's a good idea to review them. 
+These are all fundamental concepts and there are plenty of resources around. 
 
 
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week.    Each week we'll focus on certain topics and  work on a problem set.  Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (the lecture).  The last meeting, designated as the _lab_, is  for you to work on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
+The class meets (in-person) three times a week. Two of these meetings are lecture, and one is the _lab_.   Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), exercises, slides, and other www resources; the week will culminate with a problem set, which will help you engage with the content deeper and apply it.
+
+Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (the lectures).  The last meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
 
 Here's the weekly timeline:
 
@@ -86,7 +88,7 @@ Based on your background, some of you will put in more or less time than what I 
 
  
 
-### Assignments/Assessments and Grading 
+### Assignments/Assessments 
 Below is the list of assessments throughout the semester:  
 
 - In-lecture ungraded exercises:  Lectures notes provide a combination of study questions and practice quizzes. These are not graded and are meant to support your learning. 
