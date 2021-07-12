@@ -1,8 +1,18 @@
 ---
 layout: default 
-title: Office hours/Study groups 
+title: Office hours and Study Groups 
 nav_order: 2
 ---
 
 
-Office hours 
+### Office hours and Study groups 
+
+
+
+* Sundays: xxx
+* Mondays: xxxx
+* Tuesdays: xxx
+* Wednesdays: 
+* Thursdays: 
+* Fridays: 
+
