@@ -8,8 +8,8 @@ nav_order: 2
 ### Office hours and Study groups 
 
 
-|           |          | who |
-|:-------------|:------------------|:------|
+|              |   Time       | Who & location |
+|:-------------|:-------------|:---------------|
 | Sundays      | tbd  | tbd  |
 | Mondays      | tbd  | tbd  |
 | Tuesdays     | tbd  | tbd  |
