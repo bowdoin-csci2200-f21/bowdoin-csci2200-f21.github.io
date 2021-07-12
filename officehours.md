@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Office hours and Study Groups 
+title: Office hours & Study Groups 
 nav_order: 2
 ---
 
