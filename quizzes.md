@@ -5,16 +5,21 @@ nav_order: 6
 ---
 
 
-### Quizzes
+### Prechecks and Quizzes
 
 * The pre-checks and quizzes will be released on Blackboard/Gradescope. 
 
-*  The pre-checks are open book
+*  The pre-checks are __open__ book
 
-*  The quizzes are closed book
+*  The quizzes are __closed__ book
 
-* Both the pre-chekcs and the quizzes are  at collaboration-level 3 (no collaboration allowed, professor clarifications only).  Make sure you read and understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php).  You may not talk to or consult with anyone about the quizzes, and this include s former students who took this class before you. You may not post on any public forum any of the questios on the quizzes. You may not enter any quiz question into any websites, and you may not consult any resource that may give you a hint on how to go about solving the problems. 
+* Both the pre-chekcs and the quizzes are  at collaboration-level 3 (no collaboration allowed, professor clarifications only).  Make sure you read and understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php).  You may not talk to or consult with anyone about the prechecks and quizzes, and this includes former students who took this class before you. You may not post on any public forum any of the questions on the prechekcs/quizzes. You may not enter any quiz question into any websites.  
+* The prechecks are open notes, so you may consult your notes. 
 
+* Specifically for the quizzes,  you may not consult any resource that may give you a hint on how to go about solving the problems. 
+
+
+***
 
 #### Prechecks 
 
