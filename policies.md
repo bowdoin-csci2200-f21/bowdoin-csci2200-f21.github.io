@@ -9,7 +9,7 @@ nav_order: 7
 
 Collaboration and discussion are crucial for this class. 
 You are encouraged to engage with the problems and discuss with peers as much as you can. You will most likely find that you will gain a better understanding of the material by discussing the problems with peers.
-Our goal is to ensure that the collaboration is appropriate and effective, and that you become an independent problem solver capable to do work on your own. All students are expected to be familiar with and to comply with the department's collaboration policy  and the four levels of collaboration it outlines. Specifically for this class,
+Our goal is to ensure that the collaboration is appropriate and effective, and that you become an independent problem solver capable to do work on your own. All students are expected to be familiar with and to comply with the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php)  and the four levels of collaboration it outlines. Specifically for this class,
 
   * **In-class work, labs:** All in-class work towards understanding the lectures, including study questions, practice problems and self-quizzes are  (unless otherwise specified)  at **collaboration-level 0**; that is, no restrictions.
 
