@@ -18,20 +18,20 @@ nav_order: 6
 
 #### Prechecks 
 
-1. Precheck  week 1
-2. Precheck week 2
-3. Precheck week 3
-4. Precheck week 4
-5. Precheck week 5
-6. ~~Precheck week 6~~
-7. Precheck week 7
-8. Precheck week 8
-9. Precheck week 9
-10. ~~Precheck week 10~~
-11. Precheck week 11
-12. Precheck week 12
-13. Precheck week 13
-14. Precheck week 14
+* Precheck  week 1
+* Precheck week 2
+* Precheck week 3
+* Precheck week 4
+* Precheck week 5
+* ~~Precheck week 6~~
+* Precheck week 7
+* Precheck week 8
+* Precheck week 9
+* ~~Precheck week 10~~
+* Precheck week 11
+* Precheck week 12
+*  Precheck week 13
+* Precheck week 14
 
 *** 
 #### Quizzes 
