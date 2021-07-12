@@ -33,3 +33,8 @@ The assignments are hard. They consist of new problems, sometimes seemingly unre
 You may work on the assignments with **one** partner  (teams of at most 2 people). You can have the same partner for all assignments, or you can change partners. You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by both partners. Specifically splitting the assignment and working on the problems separately is not allowed and violates the honor code for the class.
 
 
+### Flex days
+
+To provide reasonable flexibility with deadlines, you are allotted three flex days for the semester, each of which may be used to submit an assignment or a quiz up to 24 hours late (up to 72 hours late if all three flex days are applied all at once). For a team project, applying a flex day uses a flex day from each group member’s allotment. Beyond the use of flex days, quizzes and assignments will not be accepted after the posted due date,unless alternate arrangements have been approved in advance of the deadline. If you have an unusual situation that you forsee impacting your ability to meet a deadline, please let me know as soon as possible so that we can make a plan.
+
+
