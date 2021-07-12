@@ -77,7 +77,7 @@ The work for the class, throughout the semester, consists of:
 -  __Labs:__ There are 12-14 labs, approx. one every week that classes are in session. The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
-- __Quizzes:__ There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home at your own time.
+- __Quizzes:__ There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
 
 - __Assignments:__ There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
@@ -96,18 +96,18 @@ The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 a
 ### Time Commitment
 Preparing for weekly material will demand a significant time commitment, and it is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
 
-Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to alloate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will be happy to provide additional problems.
+Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will be happy to provide additional problems.
 
 ### Flex days 
 To provide reasonable flexibility with deadlines, you are allotted __three flex days__ for the semester,  each of which may be used to submit an assignment or a quiz up to 24 hours late (up to 72 hours late if all three flex days are applied all at once).  For a team project, applying a flex day uses a flex day from each group member's allotment. Beyond the use of flex days, quizzes and assignments will not be accepted after the posted due date,unless alternate arrangements have been approved in advance of the deadline.  If you have an unusual situation that you forsee impacting your ability to meet a deadline, please let me know as soon as possible so that we can make a plan. 
 
 
 ### What you can expect from me: 
-My goal is to maintain similar standards  as algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take, so it's important to pack as many topics as possible and expose you to harder problems. Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). 
+My goal is to maintain similar standards  as algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go through technical interview. For all of these reasons it's important to pack as many topics as possible and expose you to many problems. Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). 
 
-The  syllabus is packed and you will find the pace and the problems challenging. I often choose problems from the top R1 universities such as Stanford, MIT, Berkeley. To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
+The  syllabus is packed and you will find the pace and the problems challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
 
-Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   You need to 
+Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   
 
 
 
