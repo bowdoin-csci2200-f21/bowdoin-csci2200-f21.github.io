@@ -19,13 +19,11 @@ nav_order: 6
 3. Quiz 2 (covers week 3, due Sun 9/19)
 4. Quiz 3 (covers week 4, due Sun 9/26)
 5. Quiz 4 (covers week 5, due Sun 10/3)
-
 6. Quiz 5 (covers week 6, due Sun 10/10)
 7. Quiz 6 (covers week 7, due Sun 10/17)
 8. Quiz 7 (covers week 8, due Sun 10/24)
 9. Quiz 8 (covers week 9, due Sun 10/31)
 10. Quiz 9 (covers week 10, due Sun 11/7)
-
 11. Quiz 10 (covers week 11, due Sun 11/14)
 12. Quiz 11 (covers week 12, due Sun 11/21)
 13. Quiz 12 (covers week 13 & 14, due Sun 12/5)
