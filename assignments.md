@@ -8,6 +8,8 @@ nav_order: 5
 ### Assignments 
 
 
+
+
 * Team work: For each assignment you may choose to work with (at most) __one__ partner. 
 
 * __Collaboration policy:__ You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
@@ -43,6 +45,9 @@ Credit:  inspired by [Stanford University, cs161](http://www-leland.stanford.edu
 
 
 ***
+
+The assignments consist of new problems, sometimes seemingly unrelated to the class topics, which you will have to solve from scratch. Remember, one of the goals of the class is to provide the conceptual tools so that you can come up with solutions to new problems, on your own; this is precisely  the role of  the assignments.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.
+
 
 1. Assignment 1 (due: end of Week 2) 
 2. Assignment 2 (due: end of Week 4) 
