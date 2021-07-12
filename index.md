@@ -15,9 +15,7 @@ nav_order: 1
 **Where:** Searles 127
 
 
-Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm! This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.
-
-Overall,  the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
+Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm! This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.  The class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
 
 **Prerequisites:** csci 2101 (Data Structures)
 
@@ -52,19 +50,19 @@ Roughly speaking, the first two meetings of the week  are dedicated to going ove
 
 Here's the weekly timeline:
 
-  1. **Read the lecture notes and take the pre-meeting check.**    Each week, before coming to class, your first task is to preview  the materials for that week (lecture notes). It is expected that you understand the basic ideas and results, but need clarifications with some details.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
+  1. **Pre-view the lecture notes and take the pre-meeting check.**    Each week, _before coming to class_, your first task is to preview  the materials for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
    
      * Time to budget: 2 hours 
            
-  2. **Attend the 3 weekly meetings.** Come to class, work with your peerrs, and get your questions answered! The pace of the lectures will be fast since everyone will be familiar with the content, which will leave more time for you to work on problems. 
+  2. **Attend the 3 weekly meetings.** Come to class, work with your peers, and get your questions answered.  The pace of the in-class presentation will be fast since everyone will be familiar with the content. This will leave more time for you to work on problems! 
  
      * Time to budget: 4.5 hours. 
 
-  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
+  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered. Take the weekly quiz. 
     
-     * Time to budget: 2 hours.  
+     * Time to budget: 2-3 hours.  
 
-  4. Work on the current **assignment**.
+  4. Work on the current **assignment**. Work on the current assignment. 
    
       * Time to budget: 2 hours.   
  
@@ -74,24 +72,24 @@ Here's the weekly timeline:
 
 The work for the class, throughout the semester, consists of:  
 
-- Pre-meeting checks:  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
+- __Pre-meeting checks:__  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
 
--  Labs: There are 12-14 labs, approx. one every week that classes are in session. The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
+-  __Labs:__ There are 12-14 labs, approx. one every week that classes are in session. The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
-- Quizzes: There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home at your own time.
+- __Quizzes:__ There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home at your own time.
 
-- Assignments: There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+- __Assignments:__ There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
 - Exams: There no exams. 
 
 
 The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 assignments as follows: 
 
-Pre-checks:     10% (12 total,  drop two lowest)
-Quizzes:        60%  (14 quizzes, drop 1 lowest)
-Assignments:    30%  (7 assignments)
-Class engagement: tie breaker 
+* Pre-checks:     10% (12 total,  drop two lowest)
+* Quizzes:        60%  (14 quizzes, drop 1 lowest)
+* Assignments:    30%  (7 assignments)
+* Class engagement: tie breaker 
 
 
 
