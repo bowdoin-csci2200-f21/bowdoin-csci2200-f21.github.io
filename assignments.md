@@ -10,7 +10,7 @@ nav_order: 5
 
 * Team work: For each assignment you may choose to work with (at most) __one__ partner. 
 
-* __Honor code:__ You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class.
+* __Collaboration policy:__ You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
 
 * Submit using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
