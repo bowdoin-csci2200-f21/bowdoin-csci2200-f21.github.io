@@ -72,12 +72,12 @@ Here's the weekly timeline:
 
 The work for the class, throughout the semester, consists of:  
 
-- __Pre-meeting checks:__  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
+- __Pre-checks:__  There are 12 pre-checks, approx. one per week. These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
 
 -  __Labs:__ There are 12-14 labs, approx. one every week that classes are in session. The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
-- __Quizzes:__ There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
+- __Quizzes:__ There are 13 quizzes,  approx. one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
 
 - __Assignments:__ There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
@@ -86,8 +86,8 @@ The work for the class, throughout the semester, consists of:
 
 The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 assignments as follows: 
 
-* Pre-checks:     10% (12 total,  drop two lowest)
-* Quizzes:        60%  (14 quizzes, drop 1 lowest)
+* Pre-checks:     10% (12 total,  drop 1 lowest)
+* Quizzes:        60%  (13 quizzes, drop 1 lowest)
 * Assignments:    30%  (7 assignments)
 * Class engagement: tie breaker 
 
