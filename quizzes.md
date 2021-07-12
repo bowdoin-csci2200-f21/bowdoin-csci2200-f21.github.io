@@ -7,7 +7,7 @@ nav_order: 6
 
 ### Quizzes
 
-All pre-checks, quizzes and exams are  at collaboration-level 3 (no collaboration allowed, professor clarifications only).  It is your responsibility to understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php). 
+All pre-checks, quizzes and exams are  at collaboration-level 3 (no collaboration allowed, professor clarifications only).  Make sure you read and understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php). 
 
 
 1. Quiz 1 (covers week 1, due Sun 9/5)
