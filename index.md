@@ -48,82 +48,86 @@ These are all fundamental concepts and there are plenty of resources around.
 ### Weekly flow: How will this class work?
 The class meets (in-person) three times a week. Two of these meetings are lecture, and one is the _lab_.   Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), exercises, slides, and other www resources; the week will culminate with a problem set, which will help you engage with the content deeper and apply it.
 
-Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (the lectures).  The last meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
+Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (think of them as lectures, although there will be exercises).  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
 
 Here's the weekly timeline:
 
-  1. **Read the lecture notes.**    Each week, before coming to class, your first task is to preview  the materials for that week (lecture notes). It is expected that you will understand the basic ideas and results, but need clarifications with some details. 
+  1. **Read the lecture notes and take the pre-meeting check.**    Each week, before coming to class, your first task is to preview  the materials for that week (lecture notes). It is expected that you understand the basic ideas and results, but need clarifications with some details.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
    
-     * Time to budget:  2 hours.
-
-  2. **Pre-meeting check.**  Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
-   
-     * Time to budget: 15 minutes
+     * Time to budget: 2 hours 
            
-  3. **Attend the weekly meetings.** Between listening to the lectures and working with your peers on problems, the goal is to  
-   
+  2. **Attend the 3 weekly meetings.** Come to class, work with your peerrs, and get your questions answered! The pace of the lectures will be fast since everyone will be familiar with the content, which will leave more time for you to work on problems. 
+ 
      * Time to budget: 4.5 hours. 
 
-  4. **Prepare and take the weekly quiz.** Review  the week practice problems and their solutions; review the lecture notes and focus on the details; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
-    * Time to budget: 1-3 hours 
-  
-  5. Work on the current **assignment**.
-  
-   * Time to budget: 2 hours 
+  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered and prepare for the weekly quiz.
+    
+     * Time to budget: 2 hours.  
 
-
-  
-### Time Commitment
-You probably heard this before, taking a 4-class load is like having a full-time job in which you are expected to work at least 40 hours a week. You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
-
-
-### What you can expect from me
-My goal is to maintain the class to the same standard  as the peer institutions. I often choose problems from the top R1 universities such as Stanford, MIT, Berkeley. The class syllabus is packed, and you will find the pace and the problems challenging. To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
-
-At the same time, I am also committed to being flexible. Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan. 
-
-
-### Find the level that's right for you
-Based on your background, some of you will put in more or less time than what I suggested above. If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you'll need to alloate more time to grasp those concepts. If your logarithms are still fresh and you finish faster, take a look at the optional problems or just send me an email. 
-
+  4. Work on the current **assignment**.
+   
+      * Time to budget: 2 hours.   
  
+  
+  
+### Work and Grading Policy 
 
-### Assignments/Assessments 
-Below is the list of assessments throughout the semester:  
+The work for the class, throughout the semester, consists of:  
 
-- In-lecture ungraded exercises:  Lectures notes provide a combination of study questions and practice quizzes. These are not graded and are meant to support your learning. 
+- Pre-meeting checks:  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
 
-- Pre-meeting checks:  There are 12 pre-meeting checks. These checks are very easy, open books, unlimited time, and their goal is simply to help you stay on track every week.
-
--  Labs: There are 13 labs. The weekly labs consist of problem sets. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
+-  Labs: There are 12-14 labs, approx. one every week that classes are in session. The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
-- Quizzes: There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short (at most one hour, but often shorter)  and focused on the specific topic discussed that week. 
+- Quizzes: There are 14 quizzes,  one per week. The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home at your own time.
 
-- Exams: There will be no exams.
+- Assignments: There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
-- Assignments: There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1) new problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+- Exams: There no exams. 
 
 
-### Grading policy
+The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 assignments as follows: 
 
-The final grade will be computed based on the pre-checks , 13 quizzes and 7 assignments: 
+Pre-checks:     10% (12 total,  drop two lowest)
+Quizzes:        60%  (14 quizzes, drop 1 lowest)
+Assignments:    30%  (7 assignments)
+Class engagement: tie breaker 
 
-Pre-checks:     12 total,  drop two lowest: 10% 
-Quizzes:        13 quizzes, drop 1 lowest: 60%
-Assignments:    7 assignments: 30% 
-Class participation: tie breaker 
+
+
+### Time Commitment
+Preparing for weekly material will demand a significant time commitment, and it is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
+
+Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to alloate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will be happy to provide additional problems.
+
+### Flex days 
+To provide reasonable flexibility with deadlines, you are allotted __three flex days__ for the semester,  each of which may be used to submit an assignment or a quiz up to 24 hours late (up to 72 hours late if all three flex days are applied all at once).  For a team project, applying a flex day uses a flex day from each group member's allotment. Beyond the use of flex days, quizzes and assignments will not be accepted after the posted due date,unless alternate arrangements have been approved in advance of the deadline.  If you have an unusual situation that you forsee impacting your ability to meet a deadline, please let me know as soon as possible so that we can make a plan. 
+
+
+### What you can expect from me: 
+My goal is to maintain similar standards  as algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take, so it's important to pack as many topics as possible and expose you to harder problems. Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). 
+
+The  syllabus is packed and you will find the pace and the problems challenging. I often choose problems from the top R1 universities such as Stanford, MIT, Berkeley. To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
+
+Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   You need to 
 
 
 
 ### Key Tips
-You will probably find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction. Adding to that, coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions. It is important that you know this ahead of time and you start preparing mentally for a challenging course.
+You will probably find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction. Adding to that, coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions. It is important that you know this ahead of time and you start preparing mentally.
+
 Here are some suggestions for doing well in class:
-Budget your time as suggested above and give yourself plenty of time to read the materials and work on the assignments each week. Plan on 10-12 hours a week, and make a schedule which you follow every week. 
-Be pro-active about things that are not clear; search for resources on the Internet
-Encourage self-reflection: Try to formulate questions, and try to answer them yourself.
-Find a group of peers to work with. Explain your ideas, and listen to theirs. Try to argue why an idea is correct, or try to prove it wrong by finding an instance where it does not work.
-Come to office hours, join the study groups and talk to the TAs; Listen to your peers' questions and get your questions answered.
+
+* Budget your time as suggested above and give yourself plenty of time to read the materials and work on the assignments each week. Plan on 10-12 hours a week, and make a schedule which you follow every week. 
+
+* Be pro-active about things that are not clear; search for resources on the Internet
+
+* Self-reflection: Try to formulate questions, and try to answer them yourself.
+
+* Find a group of peers to work with. Explain your ideas, and listen to theirs. Try to argue why an idea is correct, or try to prove it wrong by finding an instance where it does not work.
+
+* Come to office hours, join the study groups and talk to the TAs; Listen to your peers' questions and get your questions answered.
 Solve all problems that are assigned, even those that are optional.
-Don't be harsh on yourself if you are not doing as well as you expected. Push yourself, don't focus on grades, enjoy the process!
+
+* Don't be harsh on yourself if you are not doing as well as you expected. It takes time to learn, and often we learn (more) from mistakes! 
 
