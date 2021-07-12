@@ -19,9 +19,9 @@ __Honor code:__ You and your partner(s) will work together on the assignment thr
 * Write each problem on a separate page (this leaves us space to write comments)
 * Only submit one assignment per team. That is, only one member of the team should submit the assignment
 * Submit using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope).
-* bla bla 
+* [Guildelines] [docs/Homework-guidelines.pdf]
 
-
+***
 
 1. Assignment 1 (due: end of Week 2) 
 2. Assignment 2 (due: end of Week 4) 
