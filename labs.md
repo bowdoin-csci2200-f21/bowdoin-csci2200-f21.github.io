@@ -20,6 +20,6 @@ There will be 15 labs, one every week. Each lab consists of a problem set focuse
 * Lab week 10 (11/5) 
 * Lab week 11 (11/12)
 * Lab week 12 (11/19)
-* Lab week 13 (Monday 11/22) <--- Thanksgiving week, no lectures, lab on Monday 
+* Lab week 13 (Monday 11/22) _[Thanksgiving week, no lectures, lab on Monday]_
 * Lab week 14 (12/3)
 * Lab week 15 (12/10)
