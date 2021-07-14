@@ -16,3 +16,11 @@ If you want to dive deeper into proofs and the mathematics of computer science, 
 - [Mathematics for Computer science](http://opendatastructures.org/LLM.pdf)by Lehman, Leighton and Meyer
 
 There are many resources available online, and you are encouraged to explore. Anything that helps you learn, is a good resource!  If you find a good resource, we'd appreciate sharing with the class so that everyone can use it.
+
+
+### Other algorithms classes on the www
+
+I spend a lot of time checking out algorithm classes at other institutions, and throughout the years I have learnt a great deal from  open resources. I do this in order to maintain the class at similar standards and so that you can be confident. Below is a lis of classes I used and which I highly recommend: 
+  
+  *  Most recently, [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
+  *  
