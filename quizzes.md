@@ -28,11 +28,11 @@ nav_order: 6
 * Precheck week 3
 * Precheck week 4
 * Precheck week 5
-* ~~Precheck week 6~~
+* [no precheck week 6]
 * Precheck week 7
 * Precheck week 8
 * Precheck week 9
-* ~~Precheck week 10~~
+* [no precheck week 10]
 * Precheck week 11
 * Precheck week 12
 *  Precheck week 13
