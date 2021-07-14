@@ -7,13 +7,16 @@ nav_order: 2
 
 ### Office hours and Study groups 
 
+This semester we have an exceptional group of TAs and LAs who are all excited to get to know you and help your algorithms journey. 
 
-We have an exceptional group of TAs and LAs this semester!
  * tbd 
  * tbd
  * tbd 
+ * tbd 
 
-In addition to working with you in the lab, we will provide office hours and study groups. 
+
+
+In addition to working with you in the lab we will provide office hours and study groups as follows. 
 
 
 |              |   Time       | Who & location |
