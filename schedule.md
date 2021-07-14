@@ -1,7 +1,7 @@
 ---
 layout: default 
-title: Schedule 
+title: Detailed schedule 
 nav_order: 3
 ---
 
-This is the schedule
+This is the detailed schedule
