@@ -25,7 +25,7 @@ The assignments consist of new problems, sometimes seemingly unrelated to the cl
 
 ### Guidelines  
 
-Credit:  inspired by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)
+Credit:  inspired by most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)
 
 * One of the skills you'll develop is how to communicate algorithms clearly. We expect  homework problems to be clear and easily human-readable.  
 
