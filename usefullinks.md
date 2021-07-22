@@ -18,9 +18,18 @@ If you want to dive deeper into proofs and the mathematics of computer science, 
 There are many resources available online, and you are encouraged to explore. Anything that helps you learn, is a good resource!  If you find a good resource, we'd appreciate sharing with the class so that everyone can use it.
 
 
+* Mergesort [demo](https://www.cs.princeton.edu/courses/archive/fall06/cos226/demo/merge/) 
+* Sorting [vizualization] (https://www.toptal.com/developers/sorting-algorithms)
+
+
+
 ### Other algorithms classes on the www
 
-I spend a lot of time checking out algorithm classes at other institutions, and throughout the years I have learnt a great deal from  open resources. As instructors I have the freedom to choose how many topics to include in the syllabus, what type of practice problems, how many, etc. I use open resources to calibrate this class to what other institutions are doing.  Below is a lis of classes I use and which I highly recommend: 
+I spend a lot of time checking out algorithm classes at other institutions learning from  open resources. As instructor I have the freedom to decid ethe syllabus (e.g.  what topics to include in the syllabus, what type of practice problems, how many, pace of the class, etc).  I use open resources to calibrate  to what other institutions are doing.  Below is a lis of classes I use and which I highly recommend: 
   
   *  Most recently, [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
   *  UIUC [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
+  *  Tim Roughgarden's [algorithms](https://timroughgarden.org/videos.html)
+  *  Berkeley [cs 170 algorithms](https://cs170.org/)
+  *  Williams College [Algorithms](http://cs.williams.edu/~shikha/teaching/fall19/cs256/index.html)
+  *  
