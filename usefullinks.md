@@ -20,7 +20,7 @@ There are many resources available online, and you are encouraged to explore. An
 
 ### Other algorithms classes on the www
 
-I spend a lot of time checking out algorithm classes at other institutions, and throughout the years I have learnt a great deal from  open resources. I do this in order to maintain the class at similar standards and so that you can be confident. Below is a lis of classes I used and which I highly recommend: 
+I spend a lot of time checking out algorithm classes at other institutions, and throughout the years I have learnt a great deal from  open resources. As instructors I have the freedom to choose how many topics to include in the syllabus, what type of practice problems, how many, etc. I use open resources to calibrate this class to what other institutions are doing.  Below is a lis of classes I use and which I highly recommend: 
   
   *  Most recently, [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
-  *  
+  *  UIUC [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
