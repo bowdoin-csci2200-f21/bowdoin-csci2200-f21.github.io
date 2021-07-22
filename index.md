@@ -15,7 +15,7 @@ nav_order: 1
 **Where:** Searles 127
 
 
-Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm! This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.  The class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
+Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
 
 **Prerequisites:** csci 2101 (Data Structures)
 
@@ -44,7 +44,7 @@ These are all fundamental concepts and there are plenty of resources around.
 
 
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week. Two of these meetings are lecture, and one is the _lab_.   Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), exercises, slides, and other www resources; the week will culminate with a problem set, which will help you engage with the content deeper and apply it.
+The class meets (in-person) three times a week. Two of these meetings are lecture, and one is the __lab__.   Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), exercises, slides and other resources; the week will culminate with a problem set, which will help you engage with the content deeper and apply it.
 
 Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (think of them as lectures, although there will be exercises).  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
 
@@ -81,7 +81,7 @@ The work for the class, throughout the semester, consists of:
 
 - __Assignments:__ There are 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
-- Exams: There no exams. 
+- Exams: There are no exams. 
 
 
 The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 assignments as follows: 
@@ -103,7 +103,7 @@ To provide reasonable flexibility with deadlines, you are allotted __three flex 
 
 
 ### What you can expect from me: 
-My goal is to maintain similar standards  as algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go through technical interview. For all of these reasons it's important to pack as many topics as possible and expose you to many problems. Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). 
+My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interview. For all of these reasons it is important to pack as many topics as possible in the syllabus and expose you to many problems. 
 
 The  syllabus is packed and you will find the pace and the problems challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
 
