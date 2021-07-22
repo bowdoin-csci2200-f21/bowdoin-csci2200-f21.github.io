@@ -7,7 +7,7 @@ nav_order: 9
 ### Resources 
 
 
-__Textbook:__ The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. Please email me if you feel you would benefit from reading this textbook. 
+__Textbook:__ The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. 
 
 
 If you want to dive deeper into proofs and the mathematics of computer science, here are two good (free) resources: 
