@@ -20,7 +20,7 @@ There are many resources available online and you are encouraged to explore. Any
 
 
 * Mergesort [demo](https://www.cs.princeton.edu/courses/archive/fall06/cos226/demo/merge/) 
-* Sorting [vizualization] (https://www.toptal.com/developers/sorting-algorithms)
+* Sorting [vizualization](https://www.toptal.com/developers/sorting-algorithms)
 
 
 As instructor I have the freedom to decide the syllabus (e.g.  what topics to include in the syllabus, what type of practice problems, how many, pace of the class, etc). I spend a lot of time checking out algorithm classes at other institutions and calibrate.  Below is a list of classes I used and which I highly recommend as you look for resources.
