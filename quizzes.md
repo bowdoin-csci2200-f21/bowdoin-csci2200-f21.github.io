@@ -7,9 +7,7 @@ nav_order: 6
 
 ### Prechecks and Quizzes
 
-* There will be prechecks and quizzes every week
-
-* The prechecks and quizzes will be released on Blackboard/Gradescope. 
+* There will be prechecks and quizzes every week; they  will be released on Blackboard/Gradescope. 
 
 * Both the prechekcs and the quizzes are  at __collaboration-level 3__ (no collaboration allowed, professor clarifications only).  
     *  Make sure you read and understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php).  
