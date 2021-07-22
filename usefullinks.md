@@ -6,7 +6,8 @@ nav_order: 9
 
 ### Resources 
 
-Textbook: The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. Please email me if you feel you would benefit from reading this textbook. 
+
+__Textbook:__ The class is based on the following textbook: Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, 3rd Edition, McGraw Hill, New York. The book is not required. It is available online, and there are copies in Searles 224. Please email me if you feel you would benefit from reading this textbook. 
 
 
 If you want to dive deeper into proofs and the mathematics of computer science, here are two good (free) resources: 
@@ -15,19 +16,18 @@ If you want to dive deeper into proofs and the mathematics of computer science, 
 
 - [Mathematics for Computer science](http://opendatastructures.org/LLM.pdf)by Lehman, Leighton and Meyer
 
-There are many resources available online, and you are encouraged to explore. Anything that helps you learn is a good resource!  If you find a good resource, we would  appreciate sharing with the class so that everyone can use it.
+There are many resources available online and you are encouraged to explore. Anything that helps you learn is a good resource!  If you find a good resource, we would  appreciate sharing with the class so that everyone can use it.
 
 
 * Mergesort [demo](https://www.cs.princeton.edu/courses/archive/fall06/cos226/demo/merge/) 
 * Sorting [vizualization] (https://www.toptal.com/developers/sorting-algorithms)
 
 
-
-I spend a lot of time checking out algorithm classes at other institutions learning from  open resources. As instructor I have the freedom to decid ethe syllabus (e.g.  what topics to include in the syllabus, what type of practice problems, how many, pace of the class, etc).  I use open resources to calibrate  to what other institutions are doing.  Below is a lis of classes I used and which I highly recommend as you look for resources.
+As instructor I have the freedom to decide the syllabus (e.g.  what topics to include in the syllabus, what type of practice problems, how many, pace of the class, etc). I spend a lot of time checking out algorithm classes at other institutions and calibrate.  Below is a list of classes I used and which I highly recommend as you look for resources.
   
   *  Most recently, [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
   *  UIUC [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
   *  Tim Roughgarden's [algorithms](https://timroughgarden.org/videos.html)
   *  Berkeley [cs 170 algorithms](https://cs170.org/)
   *  Williams College [Algorithms](http://cs.williams.edu/~shikha/teaching/fall19/cs256/index.html)
-  *  
+  
