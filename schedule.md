@@ -20,4 +20,8 @@ nav_order: 3
 
 ## Detailed schedule
 
-* __Week 1
+* __Week 1:__
+     * Lecture notes: 
+     * Slides: 
+     * Precheck: 
+     * Lab: 
