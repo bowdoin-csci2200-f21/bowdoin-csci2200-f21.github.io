@@ -22,29 +22,32 @@ nav_order: 3
 
 ***
 
- __Week 1:__ Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
+ ### Week 1
+ 
+ #### Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
-Objectives: By the end of this  week you should be able to:
+__Objectives:__ By the end of this  week you should be able to: 
 
-    * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
-    
-    * Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
+* Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
 
-Resources: 
-     * Lecture notes: 
+* Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
+
+__Resources:__
      
-     * Slides: 
+  * __Lecture notes:__
      
-     * Videos: 
+  * __Slides:__
      
-     * Precheck: 
+  * __Videos:__    [Blackboard](www.blackboard.edu)
      
-     * Lab: 
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
      
-     * Quiz: 
+  * __Lab 1:__   
      
-   ***
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
    
    
