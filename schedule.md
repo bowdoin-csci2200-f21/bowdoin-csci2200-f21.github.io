@@ -21,10 +21,7 @@ nav_order: 3
 ## Detailed schedule
 
 
-### Week 1
- 
-
-#### Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
+### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
@@ -51,10 +48,7 @@ __Resources:__
      
  ***
  
- ### Week 2
- 
-
-#### Asymptotic Notation and Summations
+### Week 2: Asymptotic Notation and Summations
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 Introduction
@@ -100,3 +94,285 @@ __Resources:__
  ***
    
    
+   
+### Week 3: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+
+
+### Week 4: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+  
+  
+### Week 5: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+
+
+
+### Week 6: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+ 
+### Week 7: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+
+### Week 8: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+ 
+ 
+### Week 9: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+
+
+
+
+### Week 10: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+
+
+
+### Week 11: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+ 
+ 
+### Week 12 & 13: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+ 
+### Week 14: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
+ 
+ 
+ 
+### Week 15: 
+
+
+__Objectives:__ By the end of this  week you should be able to: 
+
+* 
+__Resources:__
+     
+  * __Lecture notes:__
+     
+  * __Slides:__
+     
+  * __Videos:__    [Blackboard](www.blackboard.edu)
+     
+  * __Precheck:__  [Blackboard](www.blackboad.edu)
+     
+  * __Lab 1:__   
+     
+  * __Quiz:__ [Blackboard](www.blackboard.edu)
+     
+ ***
