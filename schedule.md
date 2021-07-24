@@ -42,7 +42,7 @@ __Resources:__
      
   * __Precheck:__  [Precheck 1 on Blackboard](www.blackboad.edu)
      
-  * __Lab 1:__   lab1.pdf | lab1-sol.pdf
+  * __Lab 1:__   lab1.pdf;  lab1-sol.pdf
      
   * __Quiz:__ [Quiz 1 on Blackboard](www.blackboard.edu)
      
@@ -77,7 +77,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__ LN-asymptoticNotation.pdf | LN-summations.pdf
+  * __Lecture notes:__ LN-asymptoticNotation.pdf ;  LN-summations.pdf
      
   * __Slides:__
      
@@ -85,9 +85,9 @@ __Resources:__
      
   * __Precheck:__  [Precheck 2 on Blackboard](www.blackboad.edu)
      
-  * __Lab 2:__   lab2.pdf | lab2-sol.pdf 
+  * __Lab 2:__   lab2.pdf ;  lab2-sol.pdf 
      
-  * __Quiz:__ quiz2-practice.pdf | [Quiz 2 on Blackboard](www.blackboard.edu)
+  * __Quiz:__ quiz2-practice.pdf ;  [Quiz 2 on Blackboard](www.blackboard.edu)
      
  ***
    
@@ -95,25 +95,30 @@ __Resources:__
    
    
    
-### Week 3: 
+### Week 3: Mergesort and Recurrences
 
+This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
 __Objectives:__ By the end of this  week you should be able to: 
 
+* Understand Mergesort: how it works, why it works, and its running time analysis using a recurrence
+* Understand how to express the running time of recursive algorithms using recurrences
+* Solve recurrences by repeated iteration
+* Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 * 
 __Resources:__
      
-  * __Lecture notes:__
+  * __Lecture notes:__ LN-recurrences.pdf 
      
   * __Slides:__
      
   * __Videos:__    [Blackboard](www.blackboard.edu)
      
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
+  * __Precheck:__  [Precheck 3 on Blackboard](www.blackboad.edu)
      
-  * __Lab 1:__   
+  * __Lab 3:__   lab3.pdf (includes answers)
      
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  * __Quiz:__ quiz3-practice.pdf ; [Quiz 3 on Blackboard](www.blackboard.edu)
      
  ***
 
