@@ -59,9 +59,7 @@ When analyzing algorithms it is common to encounter the so-called "summations". 
 
 This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  Hang in there!  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Really.  Give yourself time to practice and expect it will take time.  I have included many exercises and examples  which will help you through.  It is really important that you budget plenty of time. 
 
-If you are not fond of analysis, I have some good news: once this module is over, you'll know enough to be able to analyze pretty much anything!  The remaining of the semester will be focused on new algorithms. 
-
-If you are one of those people who love analysis, I have some good news for you as well:  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
+If you are not fond of analysis, I have some good news: once this module is over, you'll know enough to be able to analyze pretty much anything!  The remaining of the semester will be focused on new algorithms.  If you like analysis, I have some good news for you as well:  In the next modules you'll see analysis tools at work on some pretty neat algorithms.  
 
 
 __Objectives:__ By the end of this  week you should be able to: 
