@@ -34,17 +34,17 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__
+  * __Lecture notes:__ LN-warmup.pdf
      
   * __Slides:__
      
   * __Videos:__    [Blackboard](www.blackboard.edu)
      
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
+  * __Precheck:__  [Precheck 1 on Blackboard](www.blackboad.edu)
      
-  * __Lab 1:__   
+  * __Lab 1:__   lab1.pdf | lab1-sol.pdf
      
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  * __Quiz:__ [Quiz 1 on Blackboard](www.blackboard.edu)
      
  ***
  
@@ -79,19 +79,21 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__
+  * __Lecture notes:__ LN-asymptoticNotation.pdf | LN-summations.pdf
      
   * __Slides:__
      
   * __Videos:__    [Blackboard](www.blackboard.edu)
      
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
+  * __Precheck:__  [Precheck 2 on Blackboard](www.blackboad.edu)
      
-  * __Lab 1:__   
+  * __Lab 2:__   lab2.pdf | lab2-sol.pdf 
      
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  * __Quiz:__ quiz2-practice.pdf | [Quiz 2 on Blackboard](www.blackboard.edu)
      
  ***
+   
+   
    
    
    
