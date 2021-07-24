@@ -105,7 +105,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand how to express the running time of recursive algorithms using recurrences
 * Solve recurrences by repeated iteration
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
-* 
+
 __Resources:__
      
   * __Lecture notes:__ LN-recurrences.pdf 
