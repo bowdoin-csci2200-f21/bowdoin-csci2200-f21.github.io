@@ -22,9 +22,9 @@ nav_order: 3
 
 ***
 
- ### Week 1
+### Week 1
  
- #### Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
+#### Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
