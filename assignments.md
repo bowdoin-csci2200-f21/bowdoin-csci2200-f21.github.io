@@ -12,9 +12,9 @@ There will be a total of 7 assignments, roughly one assignment every two weeks.
 
 The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with _solutions to new problems on your own_. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. 
 
-* __Team work:__ For each assignment you may choose to work with (at most) __one__ partner. 
+* __Team work:__ For each assignment you may choose to work alone, or with (at most) __one__ partner. 
 
-  * __Collaboration policy:__ You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
+  * __Partner collaboration policy:__ You and your partner will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
 
 * __Submit using Gradescope.__ The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
@@ -32,28 +32,30 @@ The problems in the assignments have been carefully chosen in order to provide a
 
 *** 
 
-* __Guidelines:__. _Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)_
+### Assignment Guidelines
 
-  * Please type. Feel free to annotate the pdf to add figures and formulas. 
+_Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)_
 
-  * Write each problem on a separate page (this leaves us space to write comments)
+* Please type. Feel free to annotate the pdf to add figures and formulas. 
+
+* Write each problem on a separate page (this leaves us space to write comments)
  
-  * One of the skills you'll develop is how to communicate algorithms clearly. We expect  homework problems to be clear and easily human-readable.  
+* One of the skills you'll develop is how to communicate algorithms clearly. We expect  homework problems to be clear and easily human-readable.  
 
-  * Your homeworks should  be typed (unless the homework guidelines ask you to hand-write) and clearly written with complete sentences and well-organized logic, and should definitely not be your first draft.
+* Your homeworks should  be typed (unless the homework guidelines ask you to hand-write) and clearly written with complete sentences and well-organized logic, and should definitely not be your first draft.
 
-  * When the problem asks for an algorithm,  please write pseudocode.  Pseudocode should be clear enough that a student who took 1101 can understand what your algorithm is doing, and could implement it in a language of their choice, without thinking too hard. 
+* When the problem asks for an algorithm,  please write pseudocode.  Pseudocode should be clear enough that a student who took 1101 can understand what your algorithm is doing, and could implement it in a language of their choice, without thinking too hard. 
 
-  * It is good practice to include an English description of what your pseudocode is doing, to help out the reader. 
+* It is good practice to include an English description of what your pseudocode is doing, to help out the reader. 
 
-  * Try to put yourself in the position of the reader. If you hadn’t been thinking of this problem for 3 hours, would your answers make sense to you? 
+* Try to put yourself in the position of the reader. If you hadn’t been thinking of this problem for 3 hours, would your answers make sense to you? 
 
-  * Try to finish the homework early, then step away for a day or two, and then come back to it and read it again. Chances are you’ll find something you can write more clearly. 
+* Try to finish the homework early, then step away for a day or two, and then come back to it and read it again. Chances are you’ll find something you can write more clearly. 
 
-  * Look at the posted solutions for style advise. 
+* Look at the posted solutions for style advise. 
 
-  * Remember the office hours and come talk to us. The homeworks are not exams—they are not there to test you— they are there to create opportunities to learn. We expect everyone to do well on the homework, and to take the time to write carefully. 
+* Remember the office hours and come talk to us. The homeworks are not exams—they are not there to test you— they are there to create opportunities to learn. We expect everyone to do well on the homework, and to take the time to write carefully. 
 
-  * With quick questions, send me an email.  I respond the same day. 
+* With quick questions, send me an email.  I respond the same day. 
 
 
