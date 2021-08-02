@@ -40,11 +40,11 @@ __Resources:__
      
   * __Videos:__    [Blackboard](https://www.blackboard.edu)
      
-  * __Precheck:__  [Precheck 1 on Blackboard](https://www.blackboad.edu)
+  * __Precheck:__  [Blackboard]()
      
-  * __Lab:__   [Lab 1](docs/week1-lab.pdf);  [sol on Blackboard](https://www.blackboad.edu)
+  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol [Blackboard]()
      
-  * __Quiz:__ [Quiz 1 on Blackboard](https://www.blackboard.edu)
+  * __Quiz:__ [Blackboard]()
      
  ***
  
@@ -79,17 +79,17 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptotic.pdf) | [LN-summations.pdf](docs/week2-LN-summations.pdf)
+  * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptotic.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
      
   * __Slides:__
      
-  * __Videos:__    [Blackboard](https://www.blackboard.edu)
+  * __Videos:__    [Blackboard]()
      
-  * __Precheck:__  [Precheck 2 on Blackboard](https://www.blackboad.edu)
+  * __Precheck:__  [Blackboard]()
      
-  * __Lab 2:__   [Lab2](docs/week2-lab.pdf) |  [sol on Blackboard](https://www.blackboard.edu)
+  * __Lab 2:__   [Lab2](docs/week2-lab.pdf), sol: [Blackboard]()
      
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf) ;  [Quiz 2 on Blackboard](www.blackboard.edu)
+  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   [Blackboard]()
      
  ***
    
