@@ -23,3 +23,4 @@ There will be 15 labs, one every week. Each lab consists of a problem set focuse
 * Week 13 (graphs):  [Lab 13]("docs/week13-lab.pdf")  
 * Week 14 (graphs):  [Lab 14]("docs/week14-lab.pdf")   
 * Week 15 (problems):  [Lab 15]("docs/week15-lab.pdf")   
+
