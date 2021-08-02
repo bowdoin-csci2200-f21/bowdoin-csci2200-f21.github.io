@@ -8,6 +8,7 @@ nav_order: 4
 
 There will be 15 labs, one every week. Each lab consists of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time, working with a small group. Labs are not graded. Don’t be surprised if you’ll find that most of your learning occurs while you work on the lab with your peers! That is precisely the goal. 
 
+
 | Week 1 (intro):  | [Lab 1](docs/week1-lab.pdf)  
 | Week 2 (asymptotic analysis):|  [Lab 2](docs/week2-lab.pdf) 
 | Week 3 (recurrenvces and mergesort):  | [Lab 3](docs/week3-lab.pdf)   
