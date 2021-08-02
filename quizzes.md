@@ -30,8 +30,8 @@ nav_order: 6
 | Week 10 | Nov 1-5                        | _no precheck_                  | Quiz 10 (due: Sun 11/7) | 
 | Week 11 | Nov 8-12                       | Precheck  11  (due: Mon 11/8)  | Quiz 11 (due Sun 11/14) |
 | Week 12 | Nov 15-19                      | Precheck  12  (due: Mon 11/15) | Quiz 12 (due Sun 11/21) |
-| Week 13 | Nov 22-23 _[Thanksgiving]_     | _no precheck_                  | _no quiz_               |
+| Week 13 | Nov 22-23 _(Thanksgiving)_     | _no precheck_                  | _no quiz_               |
 | Week 14 | Nov 29-Dec 3                   | Precheck  14  (due: Mon 11/29) | Quiz 14 (due Sun 12/5)  |
 | Week 15 | Dec 6-10                       | Precheck 15   (due: Mon 12/6)  | Quiz 15 (due Sun 12/12) |
 
-*** 
+
