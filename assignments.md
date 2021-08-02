@@ -8,25 +8,26 @@ nav_order: 5
 ### Assignments 
 
 
-The assignments consist of new problems, sometimes seemingly unrelated to the class topics, which you will have to solve from scratch. Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with _solutions to new problems on your own_. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.
+There will be a total of 7 assignments, roughly one assignment every two weeks.  
 
+The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with _solutions to new problems on your own_. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. 
 
-
-* Team work: For each assignment you may choose to work with (at most) __one__ partner. 
+* __Team work:__ For each assignment you may choose to work with (at most) __one__ partner. 
 
 * __Collaboration policy:__ You and your partner(s) will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
 
-* Submit using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
+* __Submit using Gradescope.__ The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
-* Please type and submit a pdf file (do not submit a Word document)
-
-* Write each problem on a separate page (this leaves us space to write comments)
 
 
 ### Guidelines  
 
-Credit:  inspired by most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)
+Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)
 
+* Please type. Feel free to annotate the pdf to add figures and formulas. 
+
+* Write each problem on a separate page (this leaves us space to write comments)
+ 
 * One of the skills you'll develop is how to communicate algorithms clearly. We expect  homework problems to be clear and easily human-readable.  
 
 * Your homeworks should  be typed (unless the homework guidelines ask you to hand-write) and clearly written with complete sentences and well-organized logic, and should definitely not be your first draft.
