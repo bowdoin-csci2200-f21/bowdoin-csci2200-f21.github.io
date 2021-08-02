@@ -34,19 +34,21 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__ LN-warmup.pdf
+  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)
      
   * __Slides:__
      
-  * __Videos:__    [Blackboard](www.blackboard.edu)
+  * __Videos:__    [Blackboard]("https://www.blackboard.edu")
      
-  * __Precheck:__  [Precheck 1 on Blackboard](www.blackboad.edu)
+  * __Precheck:__  [Precheck 1 on Blackboard]("https://www.blackboad.edu")
      
-  * __Lab 1:__   lab1.pdf;  lab1-sol.pdf
+  * __Lab:__   [Lab 1](docs/week1-lab.pdf);  sol:  [Blackboard]("https://www.blackboad.edu")
      
-  * __Quiz:__ [Quiz 1 on Blackboard](www.blackboard.edu)
+  * __Quiz:__ [Quiz 1 on Blackboard]("https://www.blackboard.edu")
      
  ***
+ 
+ 
  
 ### Week 2: Asymptotic Notation and Summations
 
