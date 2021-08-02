@@ -14,7 +14,7 @@ nav_order: 6
 
 *  __Prechecks:__ The prechecks are __open__ book/notes, so you may consult your book/notes (but not www) 
 
-* __Quizzes:__ The quizzes are __closed__ book and notes. You may __not__ consult any resource that may give you a hint on how to go about solving the problems. 
+* __Quizzes:__ The quizzes are __closed__ book and notes; you may __not__ consult any resource that may give you a hint on how to go about solving the problems. 
 
 
 ***
@@ -28,11 +28,11 @@ nav_order: 6
 * Week 7 | Sep xx |  Precheck 7| Quiz 7 (covers week 7, due Sun 10/17) |
 * Week 8 | Sep xx |  Precheck  8 | Quiz 8 (covers week 8, due Sun 10/24) |
 * Week 9 | Sep xx |  Precheck  9 | Quiz 9 (covers week 9, due Sun 10/31) |
-* Week 10| Sep xx | _[no precheck week 10]_; Quiz 10 (covers week 10, due Sun 11/7) | 
-* Week 11| Sep xx | Precheck  11 | Quiz 11 (covers week 11, due Sun 11/14) |
-* Week 12| Sep xx | Precheck  12 | Quiz 12 (covers week 12, due Sun 11/21) |
-* Week 13| Sep xx | [Thanksgiving week: No precheck, no quiz due] |
-* Week 14| Sep xx | Precheck  14|  Quiz 14 (covers week 13 & 14, due Sun 12/5) |
-* Week 15| Sep xx | Precheck 15 | Quiz 15 (covers week 15, due Sun 12/12) |
+* Week 10 | Sep xx | _[no precheck week 10]_; Quiz 10 (covers week 10, due Sun 11/7) | 
+* Week 11 | Sep xx | Precheck  11 | Quiz 11 (covers week 11, due Sun 11/14) |
+* Week 12 | Sep xx | Precheck  12 | Quiz 12 (covers week 12, due Sun 11/21) |
+* Week 13 | Sep xx | [Thanksgiving week: No precheck, no quiz due] |
+* Week 14 | Sep xx | Precheck  14|  Quiz 14 (covers week 13 & 14, due Sun 12/5) |
+* Week 15 | Sep xx | Precheck 15 | Quiz 15 (covers week 15, due Sun 12/12) |
 
 *** 
