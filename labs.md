@@ -10,7 +10,7 @@ There will be 15 labs, one every week. Each lab consists of a problem set focuse
 
 |: ------|: -------|: ---|
 |        |         | __Date__ |
-| Week 1 |  [Lab 1](https://https://bowdoin-csci2200-f21.github.io/docs/week1-lab.pdf)  | 9/3 | 
+| Week 1 |  [Lab 1](https://github.com/bowdoin-csci2200-f21/bowdoin-csci2200-f21.github.io/docs/week1-lab.pdf)  | 9/3 | 
 | Week 2 |  Lab 2  | 9/10 |
 | Week 3 |  Lab 3  | 9/17 | 
 | Week 4 |  Lab 4  | 9/24 | 
