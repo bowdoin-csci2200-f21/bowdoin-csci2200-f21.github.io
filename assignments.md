@@ -18,6 +18,20 @@ The problems in the assignments have been carefully chosen in order to provide a
 
 * __Submit using Gradescope.__ The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
+***
+
+
+1. Assignment 1 (due: end of Week 2) 
+2. Assignment 2 (due: end of Week 4) 
+3. Assignment 3 (due: end of Week 6) 
+4. Assignment 4 (due: end of week 8) 
+5. Assignment 5 (due: end of week 10) 
+6. Assignment 6 (due: end of week 12) 
+7. Assignment 7 (due: end of week 14) 
+
+
+*** 
+
 * __Guidelines:__. _Credit:  inspired by [...]  most recently by [Stanford University, cs161](http://www-leland.stanford.edu/class/cs161/homework.html)_
 
   * Please type. Feel free to annotate the pdf to add figures and formulas. 
@@ -41,17 +55,5 @@ The problems in the assignments have been carefully chosen in order to provide a
   * Remember the office hours and come talk to us. The homeworks are not exams—they are not there to test you— they are there to create opportunities to learn. We expect everyone to do well on the homework, and to take the time to write carefully. 
 
   * With quick questions, send me an email.  I respond the same day. 
-
-
-***
-
-
-1. Assignment 1 (due: end of Week 2) 
-2. Assignment 2 (due: end of Week 4) 
-3. Assignment 3 (due: end of Week 6) 
-4. Assignment 4 (due: end of week 8) 
-5. Assignment 5 (due: end of week 10) 
-6. Assignment 6 (due: end of week 12) 
-7. Assignment 7 (due: end of week 14) 
 
 
