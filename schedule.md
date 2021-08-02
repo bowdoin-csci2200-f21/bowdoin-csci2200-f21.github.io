@@ -38,13 +38,13 @@ __Resources:__
      
   * __Slides:__
      
-  * __Videos:__    [Blackboard](https://www.blackboard.edu)
+  * __Videos:__    [[Blackboard]](h)
      
-  * __Precheck:__  [Blackboard]()
+  * __Precheck:__  [[Blackboard]]()
      
-  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol [Blackboard]()
+  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol:[[Blackboard]]()
      
-  * __Quiz:__ [Blackboard]()
+  * __Quiz:__ [quiz1@Blackboard]()
      
  ***
  
@@ -83,13 +83,13 @@ __Resources:__
      
   * __Slides:__
      
-  * __Videos:__    [Blackboard]()
+  * __Videos:__    [[Blackboard]]()
      
-  * __Precheck:__  [Blackboard]()
+  * __Precheck:__  [[Blackboard]]()
      
-  * __Lab 2:__   [Lab2](docs/week2-lab.pdf), sol: [Blackboard]()
+  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: [[Blackboard]]()
      
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   [Blackboard]()
+  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   [quiz2@Blackboard]()
      
  ***
    
