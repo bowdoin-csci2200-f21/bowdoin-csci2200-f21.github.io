@@ -9,6 +9,8 @@ nav_order: 6
 
 * There will be prechecks and quizzes every week; they  will be released on Blackboard/Gradescope. 
 
+* The prechecks are due at the beginning of the week, before coming to the first meeting of the week (this semester: due on Mondays by 10am).  The quizzes are due at the end of the week (this semester: due on Sundays by end of the day)
+
 * Both the prechekcs and the quizzes are individual (no group work) and  at __collaboration-level 3__ (no collaboration allowed, professor clarifications only).  
     *  Make sure you read and understand the department's [collaboration policy](https://turing.bowdoin.edu/dept/collab.php). You may not talk to or consult with anyone about the prechecks and quizzes, and this includes former students who took this class before you. You may not post on any public forum any of the questions on the prechekcs/quizzes. You may not enter any quiz question into any websites.  
 
