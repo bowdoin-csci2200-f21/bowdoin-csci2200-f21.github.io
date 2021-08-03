@@ -37,7 +37,7 @@ __Resources:__
      
   * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)
       
-  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol: see Blackboard
+  * __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
 
   * __Slides:__    see Blackboard
       
@@ -82,7 +82,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptotic.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
+  * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
   
   * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard
   
