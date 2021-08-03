@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Assignments 
+title: --Assignments 
 nav_order: 5
 ---
 
