@@ -23,7 +23,7 @@ nav_order: 3
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
-Sept 1-3
+_Sept 1-3_
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
@@ -53,7 +53,7 @@ __Resources:__
  
 ### Week 2: Asymptotic Notation and Summations
 
-Sept 6-10
+_Sept 6-10_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 Introduction
@@ -102,6 +102,8 @@ __Resources:__
    
 ### Week 3: Mergesort and Recurrences
 
+_Sept 13-17_
+
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
 __Objectives:__ By the end of this  week you should be able to: 
@@ -114,62 +116,66 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__
      
   * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
-
-  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard
-     
-  * __Slides:__    see Blackboard
-     
-  * __Videos:__    see Blackboard
-     
-  * __Precheck:__  see Blackboard
-     
+  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard     
+  * __Slides:__    see Blackboard    
+  * __Videos:__    see Blackboard     
+  * __Precheck:__  see Blackboard     
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
      
  ***
 
 
-### Week 4: 
+### Week 4: Heapsort and Quicksort
+
+_Sept 20-27_
+
+So far we have discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort. Heapsort is based on the heap, which is the standard implementation of a priority queue. Randomized-Quicksort is considered the most efficient general-purpose sorting algorithm in practice.
 
 
 __Objectives:__ By the end of this  week you should be able to: 
 
-* 
+* Understand the interface of a Priority Queue
+* Understand how heaps are defined, the operations supported by a heap (Find-Min, DeleteMin, Insert, Heapify, Buildheap) and their Θ() bounds
+* Understand Heapsort
+* Understand Quicksort and its analysis
+* Understand Randomized-Quicksort and its analyzis
+
 __Resources:__
      
-  * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
-
-  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard
-     
-  * __Slides:__    see Blackboard
-     
-  * __Videos:__    see Blackboard
-     
-  * __Precheck:__  see Blackboard
-     
+  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
+  * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
+  * __Slides:__    see Blackboard   
+  * __Videos:__    see Blackboard  
+  * __Precheck:__  see Blackboard    
   * __Quiz:__      see Blackboard
      
  ***
   
   
-### Week 5: 
+### Week 5: Sorting lower bound. Faster sorting. Selection. 
 
+_Sept 27-Oct 1_
+
+We have seen several sorting algorithms so far, all of which have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort)
+
+We introduce a new problem, called the selection problem: Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ By the end of this  week you should be able to: 
 
-* 
+* Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
+* Understand BucketSort and CountingSort ,  their analysis and assumptions
+* Understand the selection problem, and the algorithms for it (quick-select and smart-select)
+
+
 __Resources:__
      
-  * __Lecture notes:__
+  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
+  * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
+  * __Slides:__    see Blackboard   
+  * __Videos:__    see Blackboard  
+  * __Precheck:__  see Blackboard    
+  * __Quiz:__      see Blackboard
      
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
      
  ***
 
@@ -183,17 +189,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+
      
  ***
  
@@ -206,17 +202,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+ 
      
  ***
  
@@ -229,18 +215,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
-     
+  
  ***
  
  
@@ -253,17 +228,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  
      
  ***
 
@@ -278,17 +243,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  
      
  ***
 
@@ -302,17 +257,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+ 
      
  ***
  
@@ -326,17 +271,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  
      
  ***
  
@@ -349,17 +284,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  
      
  ***
  
@@ -373,16 +298,6 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
-     
-  * __Slides:__
-     
-  * __Videos:__    [Blackboard](www.blackboard.edu)
-     
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
-     
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  
      
  ***
