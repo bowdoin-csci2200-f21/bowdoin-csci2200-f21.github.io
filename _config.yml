@@ -70,9 +70,9 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Blackboard":
+  "csci2200-on-Blackboard":
     - "https://www.blackboard.com/"
-  "Gradescope":
+  "csci2200-on-Gradescope":
     - "https://www.gradescope.com"
 
 # Makes Aux links open in a new tab. Default is false
