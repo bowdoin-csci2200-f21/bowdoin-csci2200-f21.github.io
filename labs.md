@@ -1,10 +1,10 @@
 ---
 layout: default 
-title: Labs 
+title: --Labs 
 nav_order: 4
 ---
 
-### The labs 
+### Labs 
 
 There will be 15 labs, one every week. Each lab consists of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time, working with a small group. Labs are not graded. Don’t be surprised if you’ll find that most of your learning occurs while you work on the lab with your peers! That is precisely the goal. 
 
