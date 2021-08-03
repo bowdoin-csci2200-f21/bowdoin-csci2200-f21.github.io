@@ -36,16 +36,16 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__
      
   * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)
+      
+  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol: see Blackboard
+
+  * __Slides:__    see Blackboard
+      
+  * __Videos:__    see Blackboard
      
-  * __Slides:__
+  * __Precheck:__  see Blackboard
      
-  * __Videos:__    [[Blackboard]](h)
-     
-  * __Precheck:__  [[Blackboard]]()
-     
-  * __Lab:__   [Lab 1](docs/week1-lab.pdf) : sol:[[Blackboard]]()
-     
-  * __Quiz:__ [quiz1@Blackboard]()
+  * __Quiz:__      see Blackboard 
      
  ***
  
@@ -83,16 +83,16 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__
      
   * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptotic.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
+  
+  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard
+  
+  * __Slides:__ see Blackboard 
      
-  * __Slides:__
+  * __Videos:__    see Blackboard
      
-  * __Videos:__    [[Blackboard]]()
+  * __Precheck:__  see Blackboard
      
-  * __Precheck:__  [[Blackboard]]()
-     
-  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: [[Blackboard]]()
-     
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   [quiz2@Blackboard]()
+  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
      
  ***
    
@@ -113,17 +113,17 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
      
-  * __Lecture notes:__ LN-recurrences.pdf 
+  * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
+
+  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard
      
-  * __Slides:__
+  * __Slides:__    see Blackboard
      
-  * __Videos:__    [Blackboard](www.blackboard.edu)
+  * __Videos:__    see Blackboard
      
-  * __Precheck:__  [Precheck 3 on Blackboard](www.blackboad.edu)
+  * __Precheck:__  see Blackboard
      
-  * __Lab 3:__   lab3.pdf (includes answers)
-     
-  * __Quiz:__ quiz3-practice.pdf ; [Quiz 3 on Blackboard](www.blackboard.edu)
+  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
      
  ***
 
@@ -136,17 +136,17 @@ __Objectives:__ By the end of this  week you should be able to:
 * 
 __Resources:__
      
-  * __Lecture notes:__
+  * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
+
+  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard
      
-  * __Slides:__
+  * __Slides:__    see Blackboard
      
-  * __Videos:__    [Blackboard](www.blackboard.edu)
+  * __Videos:__    see Blackboard
      
-  * __Precheck:__  [Blackboard](www.blackboad.edu)
+  * __Precheck:__  see Blackboard
      
-  * __Lab 1:__   
-     
-  * __Quiz:__ [Blackboard](www.blackboard.edu)
+  * __Quiz:__      see Blackboard
      
  ***
   
