@@ -28,12 +28,10 @@ _Sept 1-3_
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
 __Objectives:__ By the end of this  week you should be able to: 
+  * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
+  * Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
 
-* Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
-* Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
-
-__Resources:__
-     
+__Resources:__     
   * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
   * __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
   * __Slides:__    see Blackboard    
@@ -62,7 +60,6 @@ If you are not fond of analysis, I have some good news: once this module is over
 
 
 __Objectives:__ By the end of this  week you should be able to: 
-
 * By the end of this module, you should be able to:
 * Understand the relevance of analysis in practice, as well as its assumptions and limitations
 * Understand the definitions of O(), Ω(), Θ()
@@ -74,8 +71,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Recognize arithmetic and geometric summations in different forms and give Θ() bounds
 
 
-__Resources:__
-     
+__Resources:__    
   * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
   * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
   * __Slides:__ see Blackboard      
@@ -96,14 +92,12 @@ _Sept 13-17_
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
 __Objectives:__ By the end of this  week you should be able to: 
-
 * Understand Mergesort: how it works, why it works, and its running time analysis using a recurrence
 * Understand how to express the running time of recursive algorithms using recurrences
 * Solve recurrences by repeated iteration
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
-__Resources:__
-     
+__Resources:__    
   * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
   * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard     
   * __Slides:__    see Blackboard    
@@ -122,15 +116,13 @@ So far we have discussed tools necessary for analyzing algorithms (asymptotic no
 
 
 __Objectives:__ By the end of this  week you should be able to: 
-
 * Understand the interface of a Priority Queue
 * Understand how heaps are defined, the operations supported by a heap (Find-Min, DeleteMin, Insert, Heapify, Buildheap) and their Θ() bounds
 * Understand Heapsort
 * Understand Quicksort and its analysis
 * Understand Randomized-Quicksort and its analyzis
 
-__Resources:__
-     
+__Resources:__     
   * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
   * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
   * __Slides:__    see Blackboard   
@@ -150,14 +142,12 @@ We have seen several sorting algorithms so far, all of which have worst-case run
 We introduce a new problem, called the selection problem: Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ By the end of this  week you should be able to: 
-
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
 * Understand BucketSort and CountingSort ,  their analysis and assumptions
 * Understand the selection problem, and the algorithms for it (quick-select and smart-select)
 
 
-__Resources:__
-     
+__Resources:__     
   * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
   * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
   * __Slides:__    see Blackboard   
