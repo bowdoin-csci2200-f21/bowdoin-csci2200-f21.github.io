@@ -48,9 +48,8 @@ __Resources:__
 _Sept 6-10_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
-Introduction
 
-The goal of week 2 and 3 is to give you the conceptual tools  to analyze algorithms.  This week (week 2) we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
+The goal of weeks 2, 3 is to give you the conceptual tools  to analyze algorithms.  This week (week 2) we start by introducing the concepts of "asymptotic" analysis  and "order of growth". The order of growth is analyzed with O(), Ω() and Θ() notation. We'll give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient. 
 
 When analyzing algorithms it is common to encounter the so-called "summations".  In fact, you already encountered a summation when you tried to analyze Selection Sort or Insertion Sort!  We introduce the two basic summations that come up most often in the analysis of algorithms: arithmetic and geometric summations. 
 
@@ -60,7 +59,6 @@ If you are not fond of analysis, I have some good news: once this module is over
 
 
 __Objectives:__ By the end of this  week you should be able to: 
-* By the end of this module, you should be able to:
 * Understand the relevance of analysis in practice, as well as its assumptions and limitations
 * Understand the definitions of O(), Ω(), Θ()
 * Understand the rate of growth of common functions
@@ -92,7 +90,7 @@ _Sept 13-17_
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
 __Objectives:__ By the end of this  week you should be able to: 
-* Understand Mergesort: how it works, why it works, and its running time analysis using a recurrence
+* Understand Mergesort: how it works, why it works, and its running time analysis
 * Understand how to express the running time of recursive algorithms using recurrences
 * Solve recurrences by repeated iteration
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
@@ -137,9 +135,9 @@ __Resources:__
 
 _Sept 27-Oct 1_
 
-We have seen several sorting algorithms so far, all of which have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort)
+We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort). This concludes the module on sorting. 
 
-We introduce a new problem, called the selection problem: Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+This week we introduce a new problem: the __selection__ problem.  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
@@ -148,29 +146,42 @@ __Objectives:__ By the end of this  week you should be able to:
 
 
 __Resources:__     
-  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
-  * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
+  * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
+  * __Lab:__   [Lab5](docs/week5-lab.pdf); sol: see Blackboard   
+  * __Slides:__    see Blackboard   
+  * __Videos:__    see Blackboard  
+  * __Precheck:__  see Blackboard    
+  * __Quiz:__      see Blackboard
+          
+ ***
+
+
+
+### Week 6: Problems 
+
+_Oct 13-15 (note: fall break on 10/11, 10/12)
+
+At this point  in the class   (1) you have the tools to analyze algorithms, and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
+This week there is no new content (no lecture notes,  no videos and no precheck).  
+
+The work for this week consists of  a set of Jupyter notebooks which provide implementation and visualization of some of the algorithms discussed so far; use them to refresh your programming and to deeper understand the algorithms.  And a problem set. 
+
+__Objectives:__ This week's objectives do not quite fit in the  framework of "By the end of this module, you should be able to..." as it targets algorithmic problem solving.   But  here's one way to look at the week's material:  By the end of this week,
+* You would have seen examples of problems, and some of these may seem like they have nothing to do with the content  in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
+* You understand that algorithmic problem solving is both a science and an art 
+* Hopefully, you would have had one "ahaa!" moment 
+* Connect the algorithms discussed so far with their implementation. 
+
+__Resources:__
+  * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-sorting-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-sorting-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-sorting-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-sorting-quickSort.ipynb)
+  * __Lab:__   [Lab6](docs/week6-lab.pdf); sol: see Blackboard   
   * __Slides:__    see Blackboard   
   * __Videos:__    see Blackboard  
   * __Precheck:__  see Blackboard    
   * __Quiz:__      see Blackboard
      
-     
  ***
-
-
-
-### Week 6: 
-
-
-__Objectives:__ By the end of this  week you should be able to: 
-
-* 
-__Resources:__
-     
-
-     
- ***
+ 
  
  
 ### Week 7: 
