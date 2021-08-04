@@ -156,7 +156,6 @@ __Resources:__
 
 
 ### Week 6: Problems 
-
 _Oct 4-8_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
@@ -183,7 +182,6 @@ __Resources:__
  
  
 ### Week 7: Divide-and-conquer
-
 _Oct 13-15 (note: fall break on 10/11, 10/12)_
 
 What do you do when you encounter a new problem and you don't know how to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
@@ -205,6 +203,8 @@ __Resources:__
          
  ***
  
+
+
 
 ### Week 8: Dynamic Programming 
 _Oct 18-22_
@@ -231,8 +231,10 @@ __Resources:__
 ### Week 9: Greedy algorithms 
 _Oct 25-29_
 
+This week we introduce the greedy technique via the _activity selection_ problem. 
+
 __Objectives:__ By the end of this  week you should be able to: 
-* Understand  how  greedy algorithms work in general
+* Understand  how  the greedy technique works in general and contrast it with DP
 * Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness proof 
 * Move towards  applying the greedy technique to new problems 
 
@@ -250,16 +252,23 @@ __Resources:__
 
 
 ### Week 10: 
+_Nov 1-5_
 
+This week we'll wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Reflect on the problems we've looked at and compare on how the general technique was instantiated  for that specific problem. 
+* At this point the problems we've seen should feel familiar, and the goal is be  to be able to come up with the algorithms on your own. 
 
-* 
 __Resources:__
-     
-  
-     
- ***
+* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf), [LN-techniques-review.pdf](docs/week10-LN-techniques-review.pdf)
+* __Lab:__   [Lab10](docs/week10-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
+
+***
 
 
 
