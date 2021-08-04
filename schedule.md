@@ -10,7 +10,7 @@ nav_order: 3
 | Introduction                     | Week 1 | September 1-3 |
 | Analysis tools                   | Week 2, 3 | September 6-17 |
 | Efficient sorting and selection  | Week 4, 5 | September 20 - October 1 |
-| Problems                         | Week 6 | October 4 - 6 | 
+| Problems                         | Week 6 | October 4 - 8 | 
 | Techniques                       | Week 7, 8, 9 |  Ocober 13 - 29 | 
 | Problems                         | Week 10 | November 1 - 5 | 
 | Graphs                           | Week 11, 12, 13, 14 | November 8 - December 3 | 
@@ -30,21 +30,15 @@ We start by reviewing two fundamental problems---searching and sorting---and goi
 __Objectives:__ By the end of this  week you should be able to: 
 
 * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
-
 * Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
 
 __Resources:__
      
-  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)
-      
+  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
   * __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
-
-  * __Slides:__    see Blackboard
-      
-  * __Videos:__    see Blackboard
-     
-  * __Precheck:__  see Blackboard
-     
+  * __Slides:__    see Blackboard    
+  * __Videos:__    see Blackboard    
+  * __Precheck:__  see Blackboard  
   * __Quiz:__      see Blackboard 
      
  ***
@@ -83,15 +77,10 @@ __Objectives:__ By the end of this  week you should be able to:
 __Resources:__
      
   * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
-  
-  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard
-  
-  * __Slides:__ see Blackboard 
-     
-  * __Videos:__    see Blackboard
-     
+  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
+  * __Slides:__ see Blackboard      
+  * __Videos:__    see Blackboard     
   * __Precheck:__  see Blackboard
-     
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
      
  ***
