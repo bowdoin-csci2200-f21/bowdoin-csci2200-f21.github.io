@@ -7,14 +7,14 @@ nav_order: 3
 ## Overall schedule 
 
 |:-------------|:------------------|:---------- |
-| Introduction                     | Week 1 | September 1-3 |
-| Analysis tools                   | Week 2, 3 | September 6-17 |
-| Efficient sorting and selection  | Week 4, 5 | September 20 - October 1 |
-| Problems                         | Week 6 | October 4 - 8 | 
-| Techniques                       | Week 7, 8, 9 |  Ocober 13 - 29 | 
-| Problems                         | Week 10 | November 1 - 5 | 
-| Graphs                           | Week 11, 12, 13, 14 | November 8 - December 3 | 
-| Final week                       | Week 15 | December 6 - 10 | 
+| Week 1       | September 1-3     | Introduction  |                  
+| Week 2, 3    | September 6-17    | Analysis tools                  
+| Week 4, 5    | September 20 - October 1 | Efficient sorting and selection |
+| Week 6       | October 4 - 8     | Problems     |                 
+| Week 7, 8, 9 |  Ocober 13 - 29 | | Techniques |          
+| Week 10      | November 1 - 5    |  Problems    |                     
+| Week 11, 12, 13, 14 | November 8 - December 3 | Graphs |
+| Week 15      | December 6 - 10 | Final week  |
 
 
 
@@ -157,7 +157,7 @@ __Resources:__
 
 ### Week 6: Problems 
 
-_Oct 13-15 (note: fall break on 10/11, 10/12)_
+_Oct 4-8_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
 
@@ -183,10 +183,17 @@ __Resources:__
  
 ### Week 7: 
 
+_Oct 13-15 (note: fall break on 10/11, 10/12)_
+
+What do you do when you encounter a new problem and you don't know how to start it?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next 3 weeks looking at more problems,  grouped by the technique used to solve them. 
+
+This week we introduce a  technique called divide-and-conquer. In fact, you already saw this technique at work in Mergesort. This week we give more examples of problems solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Understand how  D&C works in general 
+* Understand the algorithms for integer multiplication and matrix multiplication
+* Be able to apply D&C to new problems
 
-* 
 __Resources:__
      
  
