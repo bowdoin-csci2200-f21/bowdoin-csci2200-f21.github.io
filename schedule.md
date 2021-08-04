@@ -228,16 +228,22 @@ __Resources:__
  
  
  
-### Week 9: 
-
+### Week 9: Greedy algorithms 
+_Oct 25-29_
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Understand  how  greedy algorithms work in general
+* Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness proof 
+* Move towards  applying the greedy technique to new problems 
 
-* 
 __Resources:__
-     
-  
-     
+* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-dynprog.pdf)
+* __Lab:__   [Lab9](docs/week9-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
+      
  ***
 
 
