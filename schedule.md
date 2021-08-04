@@ -120,7 +120,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand Randomized-Quicksort and its analyzis
 
 __Resources:__     
-  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quizksort.pdf](docs/week4-LN-quicksort.pdf)
+  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
   * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
   * __Slides:__    see Blackboard   
   * __Videos:__    see Blackboard  
@@ -272,13 +272,24 @@ __Resources:__
 
 
 
-### Week 11: 
+### Week 11: Graphs: basics, BFS and DFS
+_Nov 8-12_
 
+We've reached the last module this semester, graphs. Once you learn about graphs, you start to see their applications  everywhere around!  This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Compare and contrast the adjacency list and adjacency matrix representation of a graph 
+* Compare and contrast different types of graph: sparse, complete, dense, trees
+* Understand basic graph problems:  path, connectivity, connected components, reachability
+* Understand breadth-first and depth-first traversals, their complexity,  and their properties 
 
-* 
 __Resources:__
+* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-graphBasics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
+* __Lab:__   [Lab11](docs/week11-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
      
  
      
@@ -287,7 +298,7 @@ __Resources:__
  
  
 ### Week 12 & 13: 
-
+_Nov 15-22 (note: Thanksgiving break on 11/23-26)_
 
 __Objectives:__ By the end of this  week you should be able to: 
 
@@ -300,7 +311,7 @@ __Resources:__
  
  
 ### Week 14: 
-
+_Nov 29-Dec 3_
 
 __Objectives:__ By the end of this  week you should be able to: 
 
@@ -314,7 +325,7 @@ __Resources:__
  
  
 ### Week 15: 
-
+_Dec 6-10_
 
 __Objectives:__ By the end of this  week you should be able to: 
 
