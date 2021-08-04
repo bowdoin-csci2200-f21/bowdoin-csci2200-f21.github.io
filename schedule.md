@@ -207,17 +207,17 @@ __Resources:__
  
 
 ### Week 8: Dynamic Programming 
-_Oct 18-22 
+_Oct 18-22_
 
-This week we introduce the technique called _dynamic programming_ and see it at work to derive solutions for  three problems: board game, rod, and knapsak. 
+This week we introduce the technique called _dynamic programming_ and see it at work on  three problems: board game, rod, and knapsak. 
 
 __Objectives:__ By the end of this  week you should be able to: 
-* Understand  the basics of dynamic programming  
-* Understand the examples discussed in the lecture notes (including correctness and analysis) 
+* Understand  the basic principles of dynamic programming  
+* Understand the three examples discussed in the lecture notes (including correctness and analysis) 
 * Move towards applying DP to new problems 
 
 __Resources:__
-*__Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
+* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
 * __Lab:__   [Lab8](docs/week8-lab.pdf); sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
