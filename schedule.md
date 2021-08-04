@@ -112,7 +112,6 @@ _Sept 20-27_
 
 So far we have discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort. Heapsort is based on the heap, which is the standard implementation of a priority queue. Randomized-Quicksort is considered the most efficient general-purpose sorting algorithm in practice.
 
-
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand the interface of a Priority Queue
 * Understand how heaps are defined, the operations supported by a heap (Find-Min, DeleteMin, Insert, Heapify, Buildheap) and their Θ() bounds
@@ -141,9 +140,8 @@ This week we introduce a new problem: the __selection__ problem.  Given a set S 
 
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
-* Understand BucketSort and CountingSort ,  their analysis and assumptions
+* Understand BucketSort and CountingSort,  their analysis and assumptions
 * Understand the selection problem, and the algorithms for it (quick-select and smart-select)
-
 
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
@@ -159,12 +157,11 @@ __Resources:__
 
 ### Week 6: Problems 
 
-_Oct 13-15 (note: fall break on 10/11, 10/12)
+_Oct 13-15 (note: fall break on 10/11, 10/12)_
 
-At this point  in the class   (1) you have the tools to analyze algorithms, and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
-This week there is no new content (no lecture notes,  no videos and no precheck).  
+At this point  in the class   (1) you have the tools to analyze algorithms and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
 
-The work for this week consists of  a set of Jupyter notebooks which provide implementation and visualization of some of the algorithms discussed so far; use them to refresh your programming and to deeper understand the algorithms.  And a problem set. 
+This week there is no new content (no lecture notes,  no videos and no precheck).   The work for this week consists of  a set of Jupyter notebooks which provide implementation and visualization of some of the algorithms discussed so far; use them to refresh your programming and to deeper understand the algorithms.  And set of new problems to solve. 
 
 __Objectives:__ This week's objectives do not quite fit in the  framework of "By the end of this module, you should be able to..." as it targets algorithmic problem solving.   But  here's one way to look at the week's material:  By the end of this week,
 * You would have seen examples of problems, and some of these may seem like they have nothing to do with the content  in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
