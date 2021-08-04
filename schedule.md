@@ -238,7 +238,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Move towards  applying the greedy technique to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-dynprog.pdf)
+* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/week9-lab.pdf); sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
