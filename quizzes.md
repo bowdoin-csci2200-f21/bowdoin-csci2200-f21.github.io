@@ -25,8 +25,8 @@ nav_order: 6
 | Week 3 | Sep 13-17                       | Precheck 3   (due: Mon 9/13)   | Quiz 3  (due: Sun 9/19) |
 | Week 4 | Sep 20-24                       | Precheck 4   (due: Mon 9/20)   | Quiz 4  (due: Sun 9/26) |
 | Week 5 | Sep 27-Oct 1                    | Precheck 5   (due: Mon 9/27)   | Quiz 5  (due: Sun 10/3) |
-| Week 6 | Oct 4-8    _(fall break)_       | _no precheck_                  | Quiz 6  (due: Sun 10/10)|
-| Week 7 | Oct 13-15                       |  Precheck 7  (due: Mon 10/13)  | Quiz 7  (due: Sun 10/17)|
+| Week 6 | Oct 4-8                         | _no precheck_                  | Quiz 6  (due: Sun 10/10)|
+| Week 7 | Oct 13-15     _(fall break)_    |  Precheck 7  (due: Mon 10/13)  | Quiz 7  (due: Sun 10/17)|
 | Week 8 | Oct 18-22                       |  Precheck  8 (due: Mon 10/18)  | Quiz 8  (due: Sun 10/24)|
 | Week 9 | Oct 25-29                       |  Precheck  9 (due: Mon 10/25)  | Quiz 9  (due: Sun 10/31)|
 | Week 10 | Nov 1-5                        | _no precheck_                  | Quiz 10 (due: Sun 11/7) | 
