@@ -169,7 +169,7 @@ __Objectives:__ This week's objective is algorithmic problem solving.  By the en
 
 
 __Resources:__
-  * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-sorting-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-sorting-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-sorting-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-sorting-quickSort.ipynb)
+  * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
   * __Lab:__   [Lab6](docs/week6-lab.pdf); sol: see Blackboard   
   * __Slides:__    see Blackboard   
   * __Videos:__    see Blackboard  
