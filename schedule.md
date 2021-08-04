@@ -84,7 +84,6 @@ __Resources:__
    
    
 ### Week 3: Mergesort and Recurrences
-
 _Sept 13-17_
 
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
@@ -106,8 +105,8 @@ __Resources:__
  ***
 
 
-### Week 4: Heapsort and Quicksort
 
+### Week 4: Heapsort and Quicksort
 _Sept 20-27_
 
 So far we have discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort. Heapsort is based on the heap, which is the standard implementation of a priority queue. Randomized-Quicksort is considered the most efficient general-purpose sorting algorithm in practice.
@@ -130,8 +129,8 @@ __Resources:__
  ***
   
   
+  
 ### Week 5: Sorting lower bound. Faster sorting. Selection. 
-
 _Sept 27-Oct 1_
 
 We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort). This concludes the module on sorting. 
@@ -272,7 +271,7 @@ __Resources:__
 
 
 
-### Week 11: Graphs: basics, BFS and DFS
+### Week 11: Graphs: Basics, BFS and DFS
 _Nov 8-12_
 
 We've reached the last module this semester, graphs. Once you learn about graphs, you start to see their applications  everywhere around!  This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. 
@@ -290,28 +289,56 @@ __Resources:__
 * __Videos:__    see Blackboard  
 * __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard     
-     
- 
-     
+        
  ***
  
  
  
-### Week 12 & 13: 
-_Nov 15-22 (note: Thanksgiving break on 11/23-26)_
+### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths basics.  
+_Nov 15-19_
+
+This week  introduce the problem of computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Understand the applications of graph traversal to basic problems on directed and undirected graphs
+* Understand  the concept of topological order
+* Understand the algorithms for computing topological order 
+* Use topological order for dynamic programming on DAGs
 
-* 
 __Resources:__
-     
-  
-     
+* __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
+* __Lab:__   [Lab12](docs/week12-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
+             
  ***
  
  
-### Week 14: 
+### Week 13 :  Problems 
+_Nov 22 (note: Thanksgiving break 11/23-26)_
+
+__Objectives:__ 
+* Understand the properties of shortest paths and how SP can be computed on a DAG
+
+__Resources:__
+* __Lecture notes:__ _(none this week)_
+* __Lab:__   [Lab13](docs/week13-lab.pdf); sol: see Blackboard   
+* __Slides:__     
+* __Videos:__    
+* __Precheck:__  _(none this week)_ 
+* __Quiz:__      _(none this week)_         
+  
+ ***
+ 
+ 
+### Week 14: Shortest paths on graphs. 
 _Nov 29-Dec 3_
+
+This week we discuss computing shortest paths in graphs, and see some of the nicest algorithms in Computer's Science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
+Together with Dijkstra's algorithm, which is greedy,  these are new applications of the problem solving techniques we discussed in the previous weeks. 
+
 
 __Objectives:__ By the end of this  week you should be able to: 
 
