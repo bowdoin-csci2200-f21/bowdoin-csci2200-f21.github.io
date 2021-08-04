@@ -13,8 +13,8 @@ nav_order: 3
 | Week 6       | October 4 - 8     | Problems     |                 
 | Week 7, 8, 9 |  Ocober 13 - 29   | Techniques (divide-and-conquer, dynamic programming, greedy)|          
 | Week 10      | November 1 - 5    |  Problems    |                     
-| Week 11, 12, 13, 14 | November 8 - December 3 | Graphs |
-| Week 15      | December 6 - 10 | Final week  |
+| Week 11, 12, 13, 14, 15 | November 8 - December 10 | Graphs |
+
 
 
 
