@@ -7,11 +7,11 @@ nav_order: 3
 ## Overall schedule 
 
 |:-------------|:------------------|:---------- |
-| Week 1       | September 1-3     | Introduction  |                  
+| Week 1       | September 1-3     | Introduction and review |                  
 | Week 2, 3    | September 6-17    | Analysis tools                  
 | Week 4, 5    | September 20 - October 1 | Efficient sorting and selection |
 | Week 6       | October 4 - 8     | Problems     |                 
-| Week 7, 8, 9 |  Ocober 13 - 29 | | Techniques |          
+| Week 7, 8, 9 |  Ocober 13 - 29   | Techniques (divide-and-conquer, dynamic programming, greedy)|          
 | Week 10      | November 1 - 5    |  Problems    |                     
 | Week 11, 12, 13, 14 | November 8 - December 3 | Graphs |
 | Week 15      | December 6 - 10 | Final week  |
@@ -163,11 +163,12 @@ At this point  in the class   (1) you have the tools to analyze algorithms and y
 
 This week there is no new content (no lecture notes,  no videos and no precheck).   The work for this week consists of  a set of Jupyter notebooks which provide implementation and visualization of some of the algorithms discussed so far; use them to refresh your programming and to deeper understand the algorithms.  And set of new problems to solve. 
 
-__Objectives:__ This week's objectives do not quite fit in the  framework of "By the end of this module, you should be able to..." as it targets algorithmic problem solving.   But  here's one way to look at the week's material:  By the end of this week,
-* You would have seen examples of problems, and some of these may seem like they have nothing to do with the content  in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
+__Objectives:__ This week's objective is algorithmic problem solving.  By the end of this week,
+* Connect the algorithms discussed so far with their implementation. 
+* You would have seen examples of new problems, which may seem like they have nothing to do with the content in the previous weeks;  yet, the process of coming up with solutions to these problems on your own illustrates the very nature of  algorithmic problem solving 
 * You understand that algorithmic problem solving is both a science and an art 
 * Hopefully, you would have had one "ahaa!" moment 
-* Connect the algorithms discussed so far with their implementation. 
+
 
 __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-sorting-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-sorting-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-sorting-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-sorting-quickSort.ipynb)
@@ -181,13 +182,13 @@ __Resources:__
  
  
  
-### Week 7: 
+### Week 7: Divide-and-conquer
 
 _Oct 13-15 (note: fall break on 10/11, 10/12)_
 
-What do you do when you encounter a new problem and you don't know how to start it?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next 3 weeks looking at more problems,  grouped by the technique used to solve them. 
+What do you do when you encounter a new problem and you don't know how to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
-This week we introduce a  technique called divide-and-conquer. In fact, you already saw this technique at work in Mergesort. This week we give more examples of problems solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
+This week we introduce a  technique called __divide-and-conquer__. In fact you already saw this technique at work in Mergesort. This week we give more examples of problems that can be  solved via divide-and-conquer, including the famous Strassen's matrix multiplication algorithm. 
 
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand how  D&C works in general 
@@ -195,7 +196,13 @@ __Objectives:__ By the end of this  week you should be able to:
 * Be able to apply D&C to new problems
 
 __Resources:__
-     
+  * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
+  * __Lab:__   [Lab7](docs/week7-lab.pdf); sol: see Blackboard   
+  * __Slides:__    see Blackboard   
+  * __Videos:__    see Blackboard  
+  * __Precheck:__  see Blackboard    
+  * __Quiz:__      see Blackboard
+         
  
      
  ***
