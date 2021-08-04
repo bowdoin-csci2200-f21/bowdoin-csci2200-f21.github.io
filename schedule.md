@@ -297,7 +297,7 @@ __Resources:__
 ### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths basics.  
 _Nov 15-19_
 
-This week  introduce the problem of computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
+This week  we introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
 
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand the applications of graph traversal to basic problems on directed and undirected graphs
@@ -316,7 +316,7 @@ __Resources:__
  ***
  
  
-### Week 13 :  Problems 
+### Week 13 :  Shortest paths on DAGs.  
 _Nov 22 (note: Thanksgiving break 11/23-26)_
 
 __Objectives:__ 
@@ -325,8 +325,8 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ _(none this week)_
 * __Lab:__   [Lab13](docs/week13-lab.pdf); sol: see Blackboard   
-* __Slides:__     
-* __Videos:__    
+* __Slides:__     _(none this week)_ 
+* __Videos:__   _(none this week)_  
 * __Precheck:__  _(none this week)_ 
 * __Quiz:__      _(none this week)_         
   
@@ -337,16 +337,19 @@ __Resources:__
 _Nov 29-Dec 3_
 
 This week we discuss computing shortest paths in graphs, and see some of the nicest algorithms in Computer's Science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
-Together with Dijkstra's algorithm, which is greedy,  these are new applications of the problem solving techniques we discussed in the previous weeks. 
-
+Bellman-Ford's algorithm uses dynamic programming and Dijkstra's algorithm is a greedy algorithm.   These are new applications of the problem solving techniques we discussed in the previous weeks! 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Understand the algorithms for computing shortest paths explained in the notes:  how they work, why they work, and their complexity
 
-* 
 __Resources:__
-     
-  
-     
+* __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
+* __Lab:__   [Lab14](docs/week14-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
+                      
  ***
  
  
@@ -354,11 +357,20 @@ __Resources:__
 ### Week 15: 
 _Dec 6-10_
 
-__Objectives:__ By the end of this  week you should be able to: 
+This final week we'll introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
 
-* 
+This last week we'll also do a quick review and work on some extra fun problems!
+
+__Objectives:__ By the end of this  week you should be able to: 
+* Understand the concept of MST (minimum spaninng tree) in a graph, and be able to answer basic questions about it sproperties
+* Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
+
 __Resources:__
-     
-  
-     
+* __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
+* __Lab:__   [Lab15](docs/week15-lab.pdf); sol: see Blackboard   
+* __Slides:__    see Blackboard   
+* __Videos:__    see Blackboard  
+* __Precheck:__  see Blackboard    
+* __Quiz:__      see Blackboard     
+                          
  ***
