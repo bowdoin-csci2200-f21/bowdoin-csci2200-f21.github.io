@@ -16,21 +16,17 @@ The problems in the assignments have been carefully chosen in order to provide a
 
   * __Partner collaboration policy:__ You and your partner will work together on the assignment throughout the whole process, you will write it and review it together, and will submit one assignment. The assignment must be a true joint effort, equally owned, created and understood by all members of the team. Specifically splitting the assignment, and working on problems separately is not allowed and violates the honor code for the class. Assignments are at collaboration-level 1, that is, you and your partner can collaborate verbally with other teams without solution sharing.  Please check the collaboration [policies](policies.md).
 
-* __Submit using Gradescope.__ The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
+* __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
-***
+|:-------------|:---------------------|
+| Assignment 1 | (due: end of Week 2) |
+| Assignment 2 | (due: end of Week 4) |
+| Assignment 3 | (due: end of Week 6) |
+| Assignment 4 | (due: end of week 8) |
+| Assignment 5 | (due: end of week 10) |
+| Assignment 6 | (due: end of week 12) |
+| Assignment 7 | (due: end of week 14) |
 
-
-1. Assignment 1 (due: end of Week 2) 
-2. Assignment 2 (due: end of Week 4) 
-3. Assignment 3 (due: end of Week 6) 
-4. Assignment 4 (due: end of week 8) 
-5. Assignment 5 (due: end of week 10) 
-6. Assignment 6 (due: end of week 12) 
-7. Assignment 7 (due: end of week 14) 
-
-
-*** 
 
 ### Assignment Guidelines
 
