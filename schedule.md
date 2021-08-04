@@ -283,7 +283,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand breadth-first and depth-first traversals, their complexity,  and their properties 
 
 __Resources:__
-* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-graphBasics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
+* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/week11-lab.pdf); sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
