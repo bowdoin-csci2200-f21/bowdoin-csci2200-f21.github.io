@@ -333,7 +333,7 @@ __Resources:__
  ***
  
  
-### Week 14: Shortest paths on graphs. 
+### Week 14: Shortest paths. 
 _Nov 29-Dec 3_
 
 This week we discuss computing shortest paths in graphs, and see some of the nicest algorithms in Computer's Science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
@@ -354,7 +354,7 @@ __Resources:__
  
  
  
-### Week 15: 
+### Week 15: Minimum spanning tree. Final review. 
 _Dec 6-10_
 
 This final week we'll introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
