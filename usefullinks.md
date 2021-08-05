@@ -23,7 +23,7 @@ There are many resources available online and you are encouraged to explore. Any
 * Sorting [vizualization](https://www.toptal.com/developers/sorting-algorithms)
 
 
-As instructor I have the freedom to decide the syllabus (e.g.  what topics to include in the syllabus, what type of practice problems, how many, pace of the class, etc). I spend a lot of time checking out algorithm classes at other institutions and adapting resources, with the overall goal of teaching a class that is both suitable for Bowdoin and competitive with classes at other institutions.  Below is a list of classes (by no means exhaustive)  I used and which I highly recommend as you look for resources.
+As instructor I have quite a bit of  freedom to decide the syllabus (e.g.  what topics to include, what type of practice problems, how many, hard/easy balance, pace of the class, etc). I spend a lot of time checking out algorithm classes at other institutions and adapting resources, with the overall goal of teaching a class that is both suitable for Bowdoin,  and at the same time similar and competitive with classes elsewhere.  Below is a list of classes (by no means exhaustive) which I used and which I highly recommend as you look for resources.
   
   *  Most recently, [Stanford CS 161](http://www-leland.stanford.edu/class/cs161/index.html) 
   *  UIUC [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
