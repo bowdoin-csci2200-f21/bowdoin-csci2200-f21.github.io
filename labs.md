@@ -11,7 +11,7 @@ The weekly lab consists of a problem set focused on the topics discussed that we
 
 | Week 1 (intro):  | [Lab 1](docs/week1-lab.pdf)  
 | Week 2 (asymptotic analysis):|  [Lab 2](docs/week2-lab.pdf) 
-| Week 3 (recurrenvces and mergesort):  | [Lab 3](docs/week3-lab.pdf)   
+| Week 3 (recurrences and mergesort):  | [Lab 3](docs/week3-lab.pdf)   
 | Week 4 (heapsort and quicksort): |   [Lab 4](docs/week4-lab.pdf)   
 | Week 5 (sorting LB, linear sorting, selection): |  [Lab 5](docs/week5-lab.pdf)   
 | Week 6 (problems): |  [Lab 6](docs/week6-lab.pdf)   
