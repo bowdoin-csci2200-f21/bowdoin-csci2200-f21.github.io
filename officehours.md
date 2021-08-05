@@ -7,7 +7,7 @@ nav_order: 7
 
 ### Office hours and Study groups 
 
-This semester we have an exceptional group of TAs and LAs who are all excited to get to know you and help your algorithms journey. 
+This semester we have an exceptional group of TAs and LAs who are all excited to get to know you and work with you. 
 
  * tbd 
  * tbd
