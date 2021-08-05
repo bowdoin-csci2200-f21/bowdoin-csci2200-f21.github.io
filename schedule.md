@@ -238,7 +238,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Move towards  applying the greedy technique to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-dynprog.pdf)
+* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/week9-lab.pdf); sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
@@ -283,8 +283,8 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand breadth-first and depth-first traversals, their complexity,  and their properties 
 
 __Resources:__
-* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-graphBasics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
-* __Lab:__   [Lab11](docs/week11-lab.pdf); sol: see Blackboard   
+* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
+* __Lab:__   [Lab11]; sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
 * __Precheck:__  see Blackboard    
@@ -307,7 +307,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
-* __Lab:__   [Lab12](docs/week12-lab.pdf); sol: see Blackboard   
+* __Lab:__   [Lab12]; sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
 * __Precheck:__  see Blackboard    
@@ -324,7 +324,7 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ _(none this week)_
-* __Lab:__   [Lab13](docs/week13-lab.pdf); sol: see Blackboard   
+* __Lab:__   [Lab13]; sol: see Blackboard   
 * __Slides:__     _(none this week)_ 
 * __Videos:__   _(none this week)_  
 * __Precheck:__  _(none this week)_ 
@@ -344,7 +344,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
-* __Lab:__   [Lab14](docs/week14-lab.pdf); sol: see Blackboard   
+* __Lab:__   [Lab14]; sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
 * __Precheck:__  see Blackboard    
@@ -367,7 +367,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
-* __Lab:__   [Lab15](docs/week15-lab.pdf); sol: see Blackboard   
+* __Lab:__   [Lab15]; sol: see Blackboard   
 * __Slides:__    see Blackboard   
 * __Videos:__    see Blackboard  
 * __Precheck:__  see Blackboard    
