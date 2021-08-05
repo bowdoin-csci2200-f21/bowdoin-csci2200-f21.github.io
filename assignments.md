@@ -19,13 +19,13 @@ The problems in the assignments have been carefully chosen in order to provide a
 * __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
 |:-------------|:---------------------|
-| Assignment 1 | (due: end of Week 2) |
-| Assignment 2 | (due: end of Week 4) |
-| Assignment 3 | (due: end of Week 6) |
-| Assignment 4 | (due: end of week 8) |
-| Assignment 5 | (due: end of week 10) |
-| Assignment 6 | (due: end of week 12) |
-| Assignment 7 | (due: end of week 14) |
+| Assignment 1 | (due: end of Week 3) |
+| Assignment 2 | (due: end of Week 5) |
+| Assignment 3 | (due: end of Week 7) |
+| Assignment 4 | (due: end of week 9) |
+| Assignment 5 | (due: end of week 11) |
+| Assignment 6 | (due: end of week 13) |
+| Assignment 7 | (due: end of week 15) |
 
 
 ### Assignment Guidelines
