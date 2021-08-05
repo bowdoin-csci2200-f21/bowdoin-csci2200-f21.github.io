@@ -20,8 +20,8 @@ The problems in the assignments have been carefully chosen in order to provide a
 
 |:-------------|:---------------------|
 | Assignment 1 | (due: end of Week 3) |
-| Assignment 2 | (due: end of Week 5) |
-| Assignment 3 | (due: end of Week 7) |
+| Assignment 2 | (due: end of Week 4) |
+| Assignment 3 | (due: end of Week 6) |
 | Assignment 4 | (due: end of week 9) |
 | Assignment 5 | (due: end of week 11) |
 | Assignment 6 | (due: end of week 13) |
