@@ -105,7 +105,7 @@ __Resources:__
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
      
   * Assignment 1 due end of this week (by Sunday 9/19)
-  * Assignment 2 posted on Gradescope [due end of week 4, by Sunday 9/26)
+  * Assignment 2 posted on Gradescope (due end of week 4, by Sunday 9/26)
    
      
  ***
