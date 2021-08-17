@@ -32,11 +32,11 @@ __Objectives:__ By the end of this  week you should be able to:
   * Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
 
 __Resources:__     
-  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
-  * __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
-  * __Slides:__    see Blackboard    
-  * __Videos:__    see Blackboard    
-  * __Precheck:__  see Blackboard  
+  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
+     * __Slides:__    see Blackboard    
+     * __Videos:__    see Blackboard    
+  * __Precheck:__  see Blackboard      
+  *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
   * __Quiz:__      see Blackboard 
      
  ***
