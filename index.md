@@ -44,21 +44,21 @@ These are all fundamental concepts and there are plenty of resources around.
 
 
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week. Two of these meetings are lecture, and one is the __lab__.   Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), exercises, slides and other resources; the week will culminate with a problem set, which will help you engage with the content deeper and apply it.
+The class meets (in-person) three times a week. Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), lecture notes, exercises, slides and a problem set.
 
-Roughly speaking, the first two meetings of the week  are dedicated to going over the topics (think of them as lectures, although there will be exercises).  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. 
+Roughly speaking, the first two meetings of the week  are dedicated to going over the new content.  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. The labs are not graded. It is your responsibility to complete the lab problems and check in with us. 
 
 Here's the weekly timeline:
 
-  1. **Pre-view the lecture notes and take the pre-meeting check.**    Each week, _before coming to class_, your first task is to preview  the materials for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
+  1. **Pre-view the lecture notes and take the pre-meeting check.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
    
      * Time to budget: 2 hours 
            
-  2. **Attend the 3 weekly meetings.** Come to class, work with your peers, and get your questions answered.  The pace of the in-class presentation will be fast since everyone will be familiar with the content. This will leave more time for you to work on problems! 
+  2. **Attend the 3 weekly meetings.** Come to class, work with your peers, and get your questions answered.  The pace of the in-class presentation will be fast since everyone will be familiar with the content. This will leave more time to work on problems! Answers to the lab will be posted at the end of the lab. 
  
      * Time to budget: 4.5 hours. 
 
-  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered. Take the weekly quiz. 
+  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered. When you are ready, take the weekly quiz. 
     
      * Time to budget: 2-3 hours.  
 
