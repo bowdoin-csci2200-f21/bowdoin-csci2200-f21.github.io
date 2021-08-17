@@ -32,13 +32,15 @@ __Objectives:__ By the end of this  week you should be able to:
   * Understand the basics of algorithm analysis, big-Oh notation best-case and worst-case analysis
 
 __Resources:__     
-  * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
+  * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
        * __Slides:__    see Blackboard    
        * __Videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
   *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
   * __Quiz:__      see Blackboard 
-     
+ 
+  * Assignment 1 posted on Gradescope (due end of week 3, by Sunday 9/19)
+  
  ***
  
  
@@ -70,14 +72,14 @@ __Objectives:__ By the end of this  week you should be able to:
 
 
 __Resources:__    
-  * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
+  * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
        * __Slides:__ see Blackboard      
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard
   * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
-     
- ***
+    
+***
    
    
    
@@ -95,12 +97,16 @@ __Objectives:__ By the end of this  week you should be able to:
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
 __Resources:__    
-  * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
+  * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
        * __Slides:__    see Blackboard    
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard     
   * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard     
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
+     
+  * Assignment 1 due end of this week (by Sunday 9/19)
+  * Assignment 2 posted on Gradescope [due end of week 4, by Sunday 9/26)
+   
      
  ***
 
