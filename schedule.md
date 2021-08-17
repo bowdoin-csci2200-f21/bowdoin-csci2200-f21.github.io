@@ -33,9 +33,9 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__     
   * __Lecture notes:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
-     * __Slides:__    see Blackboard    
-     * __Videos:__    see Blackboard    
-  * __Precheck:__  see Blackboard      
+       * __Slides:__    see Blackboard    
+       * __Videos:__    see Blackboard    
+       * __Precheck:__  see Blackboard      
   *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  sol: see Blackboard
   * __Quiz:__      see Blackboard 
      
@@ -71,10 +71,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__    
   * __Lecture notes:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
+       * __Slides:__ see Blackboard      
+       * __Videos:__    see Blackboard     
+       * __Precheck:__  see Blackboard
   * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
-  * __Slides:__ see Blackboard      
-  * __Videos:__    see Blackboard     
-  * __Precheck:__  see Blackboard
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
      
  ***
@@ -96,10 +96,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__    
   * __Lecture notes:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
+       * __Slides:__    see Blackboard    
+       * __Videos:__    see Blackboard     
+       * __Precheck:__  see Blackboard     
   * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard     
-  * __Slides:__    see Blackboard    
-  * __Videos:__    see Blackboard     
-  * __Precheck:__  see Blackboard     
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
      
  ***
@@ -120,12 +120,11 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__     
   * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
+       * __Slides:__    see Blackboard   
+       * __Videos:__    see Blackboard  
+       * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
-  * __Slides:__    see Blackboard   
-  * __Videos:__    see Blackboard  
-  * __Precheck:__  see Blackboard    
-  * __Quiz:__      see Blackboard
-     
+  * __Quiz:__      see Blackboard   
  ***
   
   
