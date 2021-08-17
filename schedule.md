@@ -125,6 +125,7 @@ __Resources:__
        * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
   * __Quiz:__      see Blackboard   
+ 
  ***
   
   
@@ -143,11 +144,11 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__     
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
-  * __Lab:__   [Lab5](docs/week5-lab.pdf); sol: see Blackboard   
-  * __Slides:__    see Blackboard   
-  * __Videos:__    see Blackboard  
-  * __Precheck:__  see Blackboard    
-  * __Quiz:__      see Blackboard
+    * __Slides:__    see Blackboard   
+    * __Videos:__    see Blackboard  
+    * __Precheck:__  see Blackboard    
+ * __Lab:__   [Lab5](docs/week5-lab.pdf); sol: see Blackboard  
+ * __Quiz:__      see Blackboard
           
  ***
 
@@ -169,10 +170,10 @@ __Objectives:__ This week's objective is algorithmic problem solving.  By the en
 
 __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
+     * __Slides:__    see Blackboard   
+     * __Videos:__    see Blackboard  
+     * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab6](docs/week6-lab.pdf); sol: see Blackboard   
-  * __Slides:__    see Blackboard   
-  * __Videos:__    see Blackboard  
-  * __Precheck:__  see Blackboard    
   * __Quiz:__      see Blackboard
      
  ***
@@ -193,10 +194,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
+     * __Slides:__    see Blackboard   
+     * __Videos:__    see Blackboard  
+     * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab7](docs/week7-lab.pdf); sol: see Blackboard   
-  * __Slides:__    see Blackboard   
-  * __Videos:__    see Blackboard  
-  * __Precheck:__  see Blackboard    
   * __Quiz:__      see Blackboard
          
  ***
@@ -216,10 +217,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
+    * __Slides:__    see Blackboard   
+    * __Videos:__    see Blackboard  
+    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab8](docs/week8-lab.pdf); sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard
   
  ***
@@ -238,10 +239,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab9](docs/week9-lab.pdf); sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard     
       
  ***
@@ -260,10 +261,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf), [LN-techniques-review.pdf](docs/week10-LN-techniques-review.pdf)
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab10](docs/week10-lab.pdf); sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard     
 
 ***
@@ -283,10 +284,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab11]; sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard     
         
  ***
@@ -306,10 +307,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
-* __Lab:__   [Lab12]; sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard  
+* __Lab:__   [Lab12]; sol: see Blackboard     
 * __Quiz:__      see Blackboard     
              
  ***
@@ -323,10 +324,10 @@ __Objectives:__
 
 __Resources:__
 * __Lecture notes:__ _(none this week)_
+   * __Slides:__     _(none this week)_ 
+   * __Videos:__   _(none this week)_  
+   * __Precheck:__  _(none this week)_ 
 * __Lab:__   [Lab13]; sol: see Blackboard   
-* __Slides:__     _(none this week)_ 
-* __Videos:__   _(none this week)_  
-* __Precheck:__  _(none this week)_ 
 * __Quiz:__      _(none this week)_         
   
  ***
@@ -343,10 +344,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
-* __Lab:__   [Lab14]; sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard    
+*  __Lab:__   [Lab14]; sol: see Blackboard   
 * __Quiz:__      see Blackboard     
                       
  ***
@@ -366,10 +367,10 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
+   * __Slides:__    see Blackboard   
+   * __Videos:__    see Blackboard  
+   * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab15]; sol: see Blackboard   
-* __Slides:__    see Blackboard   
-* __Videos:__    see Blackboard  
-* __Precheck:__  see Blackboard    
 * __Quiz:__      see Blackboard     
                           
  ***
