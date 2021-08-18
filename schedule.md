@@ -334,8 +334,8 @@ __Resources:__
 * __Lab:__   [Lab12]; Lab12-sol see Blackboard     
 * __Quiz:__   Quiz12   see Blackboard     
 * __Assignment:__
-      * Assignment 6  due end of this week 
-      * Assignment 7  posted on Gradescopoe (due end of week 15)             
+    * Assignment 6  due end of this week 
+    * Assignment 7  posted on Gradescopoe (due end of week 15)             
  
  ***
  
@@ -374,7 +374,7 @@ __Resources:__
 *  __Lab:__   [Lab14]; Lab14-sol see Blackboard   
 * __Quiz:__   Quiz14   see Blackboard     
 * __Assignment:__
-      * Assignment 7  due last day of classes
+    * Assignment 7  due last day of classes
                    
  ***
  
@@ -399,6 +399,6 @@ __Resources:__
 * __Lab:__   [Lab15]; Lab15-sol see Blackboard   
 * __Quiz:__   Quiz15   see Blackboard     
 * __Assignment:__
-      * Assignment 7  due end of this week 
+    * Assignment 7  due end of this week 
                       
 ***
