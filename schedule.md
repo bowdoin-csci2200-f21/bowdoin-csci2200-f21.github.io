@@ -36,7 +36,7 @@ __Resources:__
        * __Slides:__    see Blackboard    
        * __Videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
-  *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  Lab1-solution: see Blackboard
+  *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  Lab1-solution see Blackboard
   * __Quiz:__    Quiz1  see Blackboard 
   * __Assignment:__ Assignment1 posted on Gradescope (due end of week 3, by Sunday 9/19)
   
@@ -75,7 +75,7 @@ __Resources:__
        * __Slides:__ see Blackboard      
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf), Lab2-solution: see Blackboard 
+  * __Lab:__   [Lab2](docs/week2-lab.pdf), Lab2-solution see Blackboard 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__ work on Assignment 1  
   
@@ -101,7 +101,7 @@ __Resources:__
        * __Slides:__    see Blackboard    
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard     
-  * __Lab:__   [Lab3](docs/week3-lab.pdf); Lab3-solution: see Blackboard     
+  * __Lab:__   [Lab3](docs/week3-lab.pdf),  Lab3-solution see Blackboard     
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__
      * Assignment 1 due end of this week (by Sunday 9/19)
@@ -128,9 +128,11 @@ __Resources:__
        * __Slides:__    see Blackboard   
        * __Videos:__    see Blackboard  
        * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab4](docs/week4-lab.pdf); Lab4-solution: see Blackboard   
+  * __Lab:__   [Lab4](docs/week4-lab.pdf),  Lab4-solution see Blackboard   
   * __Quiz:__      Quiz4 see Blackboard   
-  * __Assignment:__ Assignment 2  due end of this week (by by Sunday 9/26)
+  * __Assignment:__
+      * Assignment 2  due end of this week (due by Sunday 9/26)
+      * Assignment 3  posted on Gradescopoe (due end of week 6 by Friday 10/8)
  ***
   
   
@@ -152,9 +154,10 @@ __Resources:__
     * __Slides:__    see Blackboard   
     * __Videos:__    see Blackboard  
     * __Precheck:__  see Blackboard    
- * __Lab:__   [Lab5](docs/week5-lab.pdf); sol: see Blackboard  
- * __Quiz:__      see Blackboard
-          
+ * __Lab:__   [Lab5](docs/week5-lab.pdf); Lab5-sol see Blackboard  
+ * __Quiz:__      Quiz5 see Blackboard
+ * __Assignment:__ Assignment 3  due end of next week (by Friday 10/8)
+ *          
  ***
 
 
@@ -178,8 +181,11 @@ __Resources:__
      * __Slides:__    see Blackboard   
      * __Videos:__    see Blackboard  
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab6](docs/week6-lab.pdf); sol: see Blackboard   
-  * __Quiz:__      see Blackboard
+  * __Lab:__   [Lab6](docs/week6-lab.pdf); Lab6-sol see Blackboard   
+  * __Quiz:__    Quiz6  see Blackboard
+  * __Assignment:__
+      * Assignment 3  due end of this week (due by Friday 10/8)
+      * Assignment 4  posted on Gradescopoe (due end of week 8 by Sunday 10/24)
      
  ***
  
@@ -202,8 +208,10 @@ __Resources:__
      * __Slides:__    see Blackboard   
      * __Videos:__    see Blackboard  
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab7](docs/week7-lab.pdf); sol: see Blackboard   
-  * __Quiz:__      see Blackboard
+  * __Lab:__   [Lab7](docs/week7-lab.pdf); Lab7-sol see Blackboard   
+  * __Quiz:__      Quiz7 see Blackboard
+  * __Assignment:__
+      * Assignment 4  due end of next week by Sunday 10/24)
          
  ***
  
@@ -225,8 +233,11 @@ __Resources:__
     * __Slides:__    see Blackboard   
     * __Videos:__    see Blackboard  
     * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab8](docs/week8-lab.pdf); sol: see Blackboard   
-* __Quiz:__      see Blackboard
+* __Lab:__   [Lab8](docs/week8-lab.pdf); Lab8-sol see Blackboard   
+* __Quiz:__    Quiz8  see Blackboard
+* __Assignment:__
+      * Assignment 4  due end of this week 
+      * Assignment 5  posted on Gradescopoe (due end of week 10)
   
  ***
  
@@ -247,9 +258,11 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab9](docs/week9-lab.pdf); sol: see Blackboard   
-* __Quiz:__      see Blackboard     
-      
+* __Lab:__   [Lab9](docs/week9-lab.pdf); Lab9-sol see Blackboard   
+* __Quiz:__      Quiz9 see Blackboard     
+* __Assignment:__
+      * Assignment 5  due end of next week 
+   
  ***
 
 
@@ -269,9 +282,11 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab10](docs/week10-lab.pdf); sol: see Blackboard   
-* __Quiz:__      see Blackboard     
-
+* __Lab:__   [Lab10](docs/week10-lab.pdf); Lab10-sol see Blackboard   
+* __Quiz:__    Quiz10  see Blackboard     
+* __Assignment:__
+      * Assignment 5  due end of this week 
+      * Assignment 6  posted on Gradescopoe (due end of week 12)
 ***
 
 
@@ -292,9 +307,10 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab11]; sol: see Blackboard   
-* __Quiz:__      see Blackboard     
-        
+* __Lab:__   [Lab11]; Lab11-sol see Blackboard   
+* __Quiz:__    Quiz11  see Blackboard     
+* __Assignment:__
+      * Assignment 6  due end of next week        
  ***
  
  
@@ -315,9 +331,12 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard  
-* __Lab:__   [Lab12]; sol: see Blackboard     
-* __Quiz:__      see Blackboard     
-             
+* __Lab:__   [Lab12]; Lab12-sol see Blackboard     
+* __Quiz:__   Quiz12   see Blackboard     
+* __Assignment:__
+      * Assignment 6  due end of this week 
+      * Assignment 7  posted on Gradescopoe (due end of week 15)             
+ 
  ***
  
  
@@ -332,7 +351,7 @@ __Resources:__
    * __Slides:__     _(none this week)_ 
    * __Videos:__   _(none this week)_  
    * __Precheck:__  _(none this week)_ 
-* __Lab:__   [Lab13]; sol: see Blackboard   
+* __Lab:__   [Lab13]; Lab13-sol see Blackboard   
 * __Quiz:__      _(none this week)_         
   
  ***
@@ -352,9 +371,11 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-*  __Lab:__   [Lab14]; sol: see Blackboard   
-* __Quiz:__      see Blackboard     
-                      
+*  __Lab:__   [Lab14]; Lab14-sol see Blackboard   
+* __Quiz:__   Quiz14   see Blackboard     
+* __Assignment:__
+      * Assignment 7  due last day of classes
+                   
  ***
  
  
@@ -375,7 +396,9 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab15]; sol: see Blackboard   
-* __Quiz:__      see Blackboard     
-                          
- ***
+* __Lab:__   [Lab15]; Lab15-sol see Blackboard   
+* __Quiz:__   Quiz15   see Blackboard     
+* __Assignment:__
+      * Assignment 7  due end of this week 
+                      
+***
