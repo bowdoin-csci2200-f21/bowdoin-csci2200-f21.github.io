@@ -37,7 +37,7 @@ __Resources:__
        * __Videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
   *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  Lab1-solution: see Blackboard
-  * __Quiz:__    Quiz 1  see Blackboard 
+  * __Quiz:__    Quiz1  see Blackboard 
   * __Assignment:__ Assignment1 posted on Gradescope (due end of week 3, by Sunday 9/19)
   
  ***
@@ -75,8 +75,8 @@ __Resources:__
        * __Slides:__ see Blackboard      
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
-  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
+  * __Lab:__   [Lab2](docs/week2-lab.pdf), Lab2-solution: see Blackboard 
+  * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__ work on Assignment 1  
   
 ***
@@ -101,8 +101,8 @@ __Resources:__
        * __Slides:__    see Blackboard    
        * __Videos:__    see Blackboard     
        * __Precheck:__  see Blackboard     
-  * __Lab:__   [Lab3](docs/week3-lab.pdf); sol: see Blackboard     
-  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; quiz 3: see Blackboard
+  * __Lab:__   [Lab3](docs/week3-lab.pdf); Lab3-solution: see Blackboard     
+  * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__
      * Assignment 1 due end of this week (by Sunday 9/19)
      * Assignment 2 posted on Gradescope (due end of week 4, by Sunday 9/26)
@@ -128,8 +128,8 @@ __Resources:__
        * __Slides:__    see Blackboard   
        * __Videos:__    see Blackboard  
        * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab4](docs/week4-lab.pdf); sol: see Blackboard   
-  * __Quiz:__      see Blackboard   
+  * __Lab:__   [Lab4](docs/week4-lab.pdf); Lab4-solution: see Blackboard   
+  * __Quiz:__      Quiz4 see Blackboard   
   * __Assignment:__ Assignment 2  due end of this week (by by Sunday 9/26)
  ***
   
