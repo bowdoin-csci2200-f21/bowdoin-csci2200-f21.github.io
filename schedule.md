@@ -236,8 +236,8 @@ __Resources:__
 * __Lab:__   [Lab8](docs/week8-lab.pdf); Lab8-sol see Blackboard   
 * __Quiz:__    Quiz8  see Blackboard
 * __Assignment:__
-      * Assignment 4  due end of this week 
-      * Assignment 5  posted on Gradescopoe (due end of week 10)
+    * Assignment 4  due end of this week 
+    * Assignment 5  posted on Gradescopoe (due end of week 10)
   
  ***
  
@@ -261,7 +261,7 @@ __Resources:__
 * __Lab:__   [Lab9](docs/week9-lab.pdf); Lab9-sol see Blackboard   
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
-      * Assignment 5  due end of next week 
+    * Assignment 5  due end of next week 
    
  ***
 
@@ -285,8 +285,8 @@ __Resources:__
 * __Lab:__   [Lab10](docs/week10-lab.pdf); Lab10-sol see Blackboard   
 * __Quiz:__    Quiz10  see Blackboard     
 * __Assignment:__
-      * Assignment 5  due end of this week 
-      * Assignment 6  posted on Gradescopoe (due end of week 12)
+    * Assignment 5  due end of this week 
+    * Assignment 6  posted on Gradescopoe (due end of week 12)
 ***
 
 
@@ -310,7 +310,7 @@ __Resources:__
 * __Lab:__   [Lab11]; Lab11-sol see Blackboard   
 * __Quiz:__    Quiz11  see Blackboard     
 * __Assignment:__
-      * Assignment 6  due end of next week        
+    * Assignment 6  due end of next week        
  ***
  
  
