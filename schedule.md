@@ -78,6 +78,7 @@ __Resources:__
   * __Lab:__   [Lab2](docs/week2-lab.pdf), sol: see Blackboard 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   quiz 2: see Blackboard
   * __Assignment:__ work on Assignment 1  
+  
 ***
    
    
