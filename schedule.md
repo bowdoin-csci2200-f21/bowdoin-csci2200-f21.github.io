@@ -282,7 +282,7 @@ __Resources:__
    * __Slides:__    see Blackboard   
    * __Videos:__    see Blackboard  
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab10](docs/week10-lab.pdf); Lab10-sol see Blackboard   
+* __Lab:__   [Lab10](docs/week10-lab.pdf) 
 * __Quiz:__    Quiz10  see Blackboard     
 * __Assignment:__
     * Assignment 5  due end of this week 
