@@ -33,10 +33,9 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__     
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
-       * __Slides:__    see Blackboard    
-       * __Videos:__    see Blackboard    
+       * __Slides and Videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
-  *  __Lab:__   [Lab 1](docs/week1-lab.pdf),  Lab1-solution see Blackboard
+  *  __Lab:__   [Lab 1](docs/week1-lab.pdf) (for Lab1-sol see Blackboard)
   * __Quiz:__    Quiz1  see Blackboard 
   * __Assignment:__ Assignment1 posted on Gradescope (due end of week 3, by Sunday 9/19)
   
@@ -72,10 +71,9 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__    
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
-       * __Slides:__ see Blackboard      
-       * __Videos:__    see Blackboard     
+       * __Slides and videos:__ see Blackboard      
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf), Lab2-solution see Blackboard 
+  * __Lab:__   [Lab2](docs/week2-lab.pdf) (for Lab2-sol see Blackboard)
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__ work on Assignment 1  
   
