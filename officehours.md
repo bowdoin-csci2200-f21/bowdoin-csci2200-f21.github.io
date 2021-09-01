@@ -7,7 +7,7 @@ nav_order: 7
 
 ### Office hours and Study groups 
 
-This semester we have an exceptional group of LAs who are all excited to get to know you and help us out on the algorithmic journey. 
+This semester we have an exceptional group of LAs who are all excited to get to know you and help you out on your algorithmic journey. 
 
  * Lily SMith  
  * Nothando Kumalo 
