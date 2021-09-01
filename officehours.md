@@ -17,7 +17,7 @@ This semester we have an exceptional group of LAs who are all excited to get to 
 
 
 
-In addition to working with you in the lab we will provide office hours and study groups as follows. 
+In addition to working with you in the lab we will provide **office hours/study groups** as follows. 
 
 
 |              |   Time  & location     | Who  |
