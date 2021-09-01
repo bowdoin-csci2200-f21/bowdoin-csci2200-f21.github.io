@@ -10,7 +10,7 @@ nav_order: 7
 This semester we have an exceptional group of LAs who are all excited to get to know you and help you out on your algorithmic journey. 
 
  * Lily SMith  
- * Nothando Kumalo 
+ * Nothando Khumalo 
  * Juan Atehortua 
  * Zane Bookbinder
  * Nhi Nguyen 
