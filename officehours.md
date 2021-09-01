@@ -20,9 +20,9 @@ This semester we have an exceptional group of LAs who are all excited to get to 
 In addition to working with you in the lab we will provide office hours and study groups as follows. 
 
 
-|              |   Time       | Who & location |
+|              |   Time  & location     | Who  |
 |:-------------|:-------------|:---------------|
-| Sundays      | 4-6pm  | Zane, Searles 224  |
+| Sundays      | 4-6pm, Searles 224  | Zane |
 | Mondays      | tbd  | tbd  |
 | Tuesdays     | tbd  | tbd  |
 | Wednesdays   | tbd  | tbd  |
