@@ -24,9 +24,9 @@ In addition to the weekly lab we will provide **office hours/study groups** as f
 |:-------------|:-------------|:---------------|
 | Sundays      | 4-6pm, Searles 224  | Zane |
 | Mondays      | 3-4pm, Searles 219  | Laura  |
-| Tuesdays     | tbd  | tbd  |
+| Tuesdays     | -  | -  |
 | Wednesdays   | 3-4pm, Searles 219  | Laura  |
-| Thursdays    | tbd  | tbd  |
+| Thursdays    | -  | -  |
 | Fridays    | 1-3pm, eitehr Searles 219 or by zoom  | Laura  |
 | Saturdays    | 6-8pm, Searles 224  | Lily  |
 
