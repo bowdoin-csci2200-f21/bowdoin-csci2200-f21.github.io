@@ -6,8 +6,8 @@ nav_order: 1
 
 
 
-# Algorithms,  Fall 2021, Bowdoin College 
-## Announcements 
+## Algorithms,  Fall 2021, Bowdoin College: Announcements 
+
 
 ***
 
