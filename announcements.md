@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Announcements 
-nav_order: 10
+nav_order: 1
 ---
 
 
