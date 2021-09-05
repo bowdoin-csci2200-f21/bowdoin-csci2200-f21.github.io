@@ -12,7 +12,7 @@ nav_order: 2
 
 **Meeting time:** Mon, Wed & Fri 10:05-11:30am
 
-**Where:** Searles 126
+**Where:** ~~Searles 126~~  Searles 223
 
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
