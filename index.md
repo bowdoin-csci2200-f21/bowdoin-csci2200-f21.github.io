@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Home 
+title: Syllabus
 nav_order: 1
 ---
 
