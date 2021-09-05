@@ -1,11 +1,13 @@
 ---
 layout: default 
-title: Syllabus
-nav_order: 2
+title: Announcements
+nav_order: 1
 ---
 
 
-# Algorithms,  Fall 2021, Bowdoin College 
+# Announcements 
+
+***
 
 
 **Instructor:** Laura Toma 
