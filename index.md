@@ -9,7 +9,7 @@ nav_order: 1
 
 # Algorithms,  Fall 2021, Bowdoin College 
 
-## Announcements 
+# Announcements 
 
 ***
 
@@ -18,6 +18,7 @@ nav_order: 1
 ***
 
 9/3:  Solutions to Lab1 posted --- check Blackboard. 
+
 ***
 
 9/3:  For questions with week 1 content, come to office hours on Saturday 9/4, 6-8pm, with Lily SMith. This week the office hours will be via zoom.  Use the class zoom link posted in Blackboard. 
