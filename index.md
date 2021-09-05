@@ -27,7 +27,7 @@ nav_order: 1
 
 ***
 
-9/1:  Hi everyone, Precheck1 is due by 10am on Friday 9/3. Remember that prechecks are supposed to be __easy__: 3 attemps, open books, unlimited time. 
+9/1:  Hi everyone, Precheck1 is due by 10am on Friday 9/3. Remember that prechecks are supposed to be __easy__: 3 attempts, open books, unlimited time. 
 
 ***
 
