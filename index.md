@@ -10,6 +10,8 @@ nav_order: 1
 
 
 
+***
+
 9/6:  Assignment 1 posted! Click on Gradescope link from Blackboard.  Due end of week 3 (9/19 by 11pm). 
 
 
