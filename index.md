@@ -20,7 +20,7 @@ nav_order: 1
 * Sun 4-6pm (Zane)
 
 
-Laura's office hours are either in person (location Searles 219)  or by zoom. To join by zoom use the zoom link provided for the class (you find it in BB).
+Laura's office hours are both in person (location Searles 219)  or by zoom. Feel free to come in person; orjoin by zoom (use the zoom link provided for the class, which you find it in BB).
 
 Lily's and Zane's office hours: in their weekly reminder they will  specify whether it's in person or online, as well as location or zoom link.
 
