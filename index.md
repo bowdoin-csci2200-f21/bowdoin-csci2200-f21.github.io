@@ -9,6 +9,10 @@ nav_order: 1
 ## Algorithms,  Fall 2021, Bowdoin College: Announcements 
 
 
+
+9/6:  Assignment 1 posted! Click on Gradescope link from Blackboard.  Due end of week 3 (9/19 by 11pm). 
+
+
 ***
 
 9/3: Location change:   Class has moved to Searles 223 for the remainder of the semester. 
