@@ -19,6 +19,12 @@ nav_order: 1
 * Sat 6-8pm (Lily)
 * Sun 4-6pm (Zane)
 
+
+Laura's office hours are either in person (location Searles 219)  or by zoom. To join by zoom use the zoom link provided for the class (you find it in BB).
+
+Lily's and Zane's office hours: in their weekly reminder they will  specify whether it's in person or online, as well as location or zoom link.
+
+
 ***
 
 9/6:  Assignment 1 posted! Click on Gradescope link from Blackboard.  Due end of week 3 (9/19 by 11pm). 
