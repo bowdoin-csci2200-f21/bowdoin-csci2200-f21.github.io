@@ -12,6 +12,10 @@ nav_order: 1
 
 ***
 
+9/10: Solutions to Lab2 posted on Blackboard.
+
+***
+
 9/6: Office hours this semester posted.  Click on "Office hours" link on this website.  
 * Mon 3-4pm (Laura)
 * Wed 3-4pm (Laura)
