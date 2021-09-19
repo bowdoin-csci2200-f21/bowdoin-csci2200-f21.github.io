@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Schedule and lectures
+title: Schedule
 nav_order: 3
 ---
 
