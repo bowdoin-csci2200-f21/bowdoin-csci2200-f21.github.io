@@ -10,6 +10,12 @@ nav_order: 1
 
 
 
+**
+
+9/18: Assignment 1 due on Sunday 9/19
+
+9:18: Office hours on Friday changed to 12-2pm 
+
 ***
 
 9/10: Solutions to Lab2 posted on Blackboard.
