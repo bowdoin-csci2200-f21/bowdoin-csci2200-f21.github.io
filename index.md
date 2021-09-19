@@ -10,9 +10,12 @@ nav_order: 1
 
 
 
+
+9:19: Assignment 2 posted, due Sunday 9/26 by 11:00pm 
+
 ***
 
-9/18: Assignment 1 due on Sunday 9/19
+9/18: Assignment 1 due on Sunday 9/19 by 11:00pm
 
 9:18: Office hours on Friday changed to 12-2pm 
 
