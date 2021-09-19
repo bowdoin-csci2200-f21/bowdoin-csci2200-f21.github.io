@@ -30,7 +30,7 @@ nav_order: 1
 9/6: Office hours this semester posted.  Click on "Office hours" link on this website.  
 * Mon 3-4pm (Laura)
 * Wed 3-4pm (Laura)
-* Fri 1-3pm  (Laura)
+* Fri <del>1-3pm </del>  (Laura)
 * Sat 6-8pm (Lily)
 * Sun 4-6pm (Zane)
 
