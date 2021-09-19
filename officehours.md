@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Office hours & Study Groups 
-nav_order: 7
+nav_order: 8
 ---
 
 
