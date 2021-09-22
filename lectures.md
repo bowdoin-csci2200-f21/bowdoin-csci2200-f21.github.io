@@ -112,7 +112,6 @@ __Resources:__
        * __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
        * __Videos:__   see Blackboard  
        * __Precheck:__  see Blackboard   
->>>>>>> 9fc957e5debc1c14ee794dea2adae5336794b73a
   * __Lab:__   [Lab4](docs/week4-lab.pdf) (for Lab4-sol see Blackboard)
   * __Quiz:__      Quiz4 see Blackboard   
   * __Assignment:__
