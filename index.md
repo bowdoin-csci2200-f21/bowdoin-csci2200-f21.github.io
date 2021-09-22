@@ -10,9 +10,14 @@ nav_order: 1
 
 
 
+
 ***
 
-9/18: Assignment 1 due on Sunday 9/19
+9:19: Assignment 2 posted, due Sunday 9/26 by 11:00pm 
+
+***
+
+9/18: Assignment 1 due on Sunday 9/19 by 11:00pm
 
 9:18: Office hours on Friday changed to 12-2pm 
 
@@ -25,7 +30,7 @@ nav_order: 1
 9/6: Office hours this semester posted.  Click on "Office hours" link on this website.  
 * Mon 3-4pm (Laura)
 * Wed 3-4pm (Laura)
-* Fri 1-3pm  (Laura)
+* Fri ~~1-3pm~~ 12-2pm (Laura)
 * Sat 6-8pm (Lily)
 * Sun 4-6pm (Zane)
 
