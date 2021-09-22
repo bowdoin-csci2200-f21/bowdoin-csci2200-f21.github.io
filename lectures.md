@@ -118,6 +118,7 @@ __Resources:__
 	* __Assignment:__
      * Assignment 2  due end of this week (due by Sunday 9/26)
      * Assignment 3  posted on Gradescopoe (due end of week 6 by Friday 10/8)
+
  ***
   
   
