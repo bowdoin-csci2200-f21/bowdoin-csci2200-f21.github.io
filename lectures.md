@@ -108,16 +108,16 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand Randomized-Quicksort and its analyzis
 
 __Resources:__     
-  * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
-       * __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
-       * __Videos:__   see Blackboard  
-       * __Precheck:__  see Blackboard   
->>>>>>> 9fc957e5debc1c14ee794dea2adae5336794b73a
-  * __Lab:__   [Lab4](docs/week4-lab.pdf) (for Lab4-sol see Blackboard)
-  * __Quiz:__      Quiz4 see Blackboard   
-  * __Assignment:__
-      * Assignment 2  due end of this week (due by Sunday 9/26)
-      * Assignment 3  posted on Gradescopoe (due end of week 6 by Friday 10/8)
+	* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
+	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
+	* __Videos:__   see Blackboard  
+	* __Precheck:__  see Blackboard
+	* __Lab:__   [Lab4](docs/week4-lab.pdf) (for Lab4-sol see
+    Blackboard)
+	* __Quiz:__      Quiz4 see Blackboard
+	* __Assignment:__
+     * Assignment 2  due end of this week (due by Sunday 9/26)
+     * Assignment 3  posted on Gradescopoe (due end of week 6 by Friday 10/8)
  ***
   
   
