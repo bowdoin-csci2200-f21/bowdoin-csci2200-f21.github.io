@@ -109,7 +109,7 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__     
   * __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
-       * __Slides and videos:__  [slides-heaps.pdf](bla/docs/week4-slides-heaps.pdf);   see Blackboard   
+       * __Slides and videos:__  [slides-heaps.pdf](docs/week4-LN-heapsort.pdf);   see Blackboard   
        * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab4](docs/week4-lab.pdf) (for Lab4-sol see Blackboard)
   * __Quiz:__      Quiz4 see Blackboard   
