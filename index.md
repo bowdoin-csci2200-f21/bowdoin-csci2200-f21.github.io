@@ -9,11 +9,16 @@ nav_order: 1
 ## Algorithms,  Fall 2021, Bowdoin College: Announcements 
 
 
+***
+9/24: Have a good weekend !
 
+9/24: Solutions to lab 4 posted on Blackboard and in Slack. 
+
+9/24: Reminder, Assignment 2 and Quiz 4 due at the end of this week (Sunday 9/26). 
 
 ***
 
-9:19: Assignment 2 posted, due Sunday 9/26 by 11:00pm 
+9/19: Assignment 2 posted, due Sunday 9/26 by 11:00pm 
 
 ***
 
