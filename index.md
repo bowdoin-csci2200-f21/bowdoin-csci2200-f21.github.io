@@ -10,6 +10,15 @@ nav_order: 1
 
 
 ***
+
+10/1: Solutions for lab 5 have been posted on Slack.  Have a good weekend!
+
+***
+
+9/28: Assignment 3 has been posted.  Due on Friday 10/8 by 11pm  (but you can submit by Tuesday 10/12 without penalty).
+
+
+***
 9/24: Have a good weekend !
 
 9/24: Solutions to lab 4 posted on Blackboard and in Slack. 
