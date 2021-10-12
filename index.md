@@ -9,6 +9,10 @@ nav_order: 1
 ## Algorithms,  Fall 2021, Bowdoin College: Announcements 
 
 
+*** 
+
+All announcements and communication have been moved to Slack. 
+
 ***
 
 10/1: Solutions for lab 5 have been posted on Slack.  Have a good weekend!
