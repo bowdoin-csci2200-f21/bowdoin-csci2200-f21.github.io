@@ -169,8 +169,8 @@ __Resources:__
   * __Quiz:__    Quiz6  see Blackboard
   * __Assignment:__
       * Assignment 3  due end of this week (due by Friday 10/8)
-      * Assignment 4  posted on Gradescopoe (due end of week 8 by Sunday 10/24)
-     
+      * Assignment 4  posted on Gradescope (due end of week 9 by Friday 10/29)
+    
  ***
  
  
@@ -194,7 +194,7 @@ __Resources:__
   * __Lab:__   [Lab7](docs/week7-lab.pdf); Lab7-sol see Blackboard   
   * __Quiz:__      Quiz7 see Blackboard
   * __Assignment:__
-      * Assignment 4  due end of next week by Sunday 10/24)
+      * Assignment 4  due  by Friday 10/29)
          
  ***
  
@@ -218,8 +218,8 @@ __Resources:__
 * __Lab:__   [Lab8](docs/week8-lab.pdf); Lab8-sol see Blackboard   
 * __Quiz:__    Quiz8  see Blackboard
 * __Assignment:__
-    * Assignment 4  due end of this week 
-    * Assignment 5  posted on Gradescopoe (due end of week 10)
+    * Assignment 4  due next week by Friday 10/29  
+   
   
  ***
  
@@ -242,7 +242,8 @@ __Resources:__
 * __Lab:__   [Lab9](docs/week9-lab.pdf); Lab9-sol see Blackboard   
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
-    * Assignment 5  due end of next week 
+    * Assignment 4  due by Friday 10/29
+    * Assignment 5  posted on Gradescopoe (due end of week 11)
    
  ***
 
@@ -265,8 +266,7 @@ __Resources:__
 * __Lab:__   [Lab10](docs/week10-lab.pdf) 
 * __Quiz:__    Quiz10  see Blackboard     
 * __Assignment:__
-    * Assignment 5  due end of this week 
-    * Assignment 6  posted on Gradescopoe (due end of week 12)
+    * Assignment 5  due next week 
 ***
 
 
@@ -289,7 +289,8 @@ __Resources:__
 * __Lab:__   [Lab11]; Lab11-sol see Blackboard   
 * __Quiz:__    Quiz11  see Blackboard     
 * __Assignment:__
-    * Assignment 6  due end of next week        
+    * Assignment 5  due this week, by Sunday 11/7
+    * Assignment 6  posted on Gradescope (due week 13 before break)        
  ***
  
  
@@ -312,9 +313,8 @@ __Resources:__
 * __Lab:__   [Lab12]; Lab12-sol see Blackboard     
 * __Quiz:__   Quiz12   see Blackboard     
 * __Assignment:__
-    * Assignment 6  due end of this week 
-    * Assignment 7  posted on Gradescopoe (due end of week 15)             
- 
+    * Assignment 6  due Tuesday 11/23, 11pm
+  
  ***
  
  
@@ -330,7 +330,8 @@ __Resources:__
    * __Precheck:__  _(none this week)_ 
 * __Lab:__   [Lab13]; Lab13-sol see Blackboard   
 * __Quiz:__      _(none this week)_         
-  
+* __Assignment:__
+    * Assignment 6  due Tuesday 11/23, 11pm  
  ***
  
  
@@ -350,7 +351,7 @@ __Resources:__
 *  __Lab:__   [Lab14]; Lab14-sol see Blackboard   
 * __Quiz:__   Quiz14   see Blackboard     
 * __Assignment:__
-    * Assignment 7  due last day of classes
+    * Assignment 7  posted, due end of week 15 (last day of classes)
                    
  ***
  
