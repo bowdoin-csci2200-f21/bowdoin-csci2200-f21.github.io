@@ -263,10 +263,11 @@ __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab10](docs/week10-lab.pdf) 
-* __Quiz:__    Quiz10  see Blackboard     
+* __Lab:__   [Lab10](docs/week10-lab.pdf) (for sols see BB)
+* __Quiz:__    Quiz10  (see Blackboard)
 * __Assignment:__
-    * Assignment 5  due next week 
+    * Assignment 5  due this week (Sunday 11/7)
+
 ***
 
 
@@ -286,11 +287,10 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab11]; Lab11-sol see Blackboard   
-* __Quiz:__    Quiz11  see Blackboard     
+* __Lab:__   [Lab11] (for sols see Blackboard)
+* __Quiz:__    Quiz11  (see Blackboard)
 * __Assignment:__
-    * Assignment 5  due this week, by Sunday 11/7
-    * Assignment 6  posted on Gradescope (due week 13 before break)        
+    * Assignment 6  due this week (Sunday 11/14)     
  ***
  
  
@@ -310,10 +310,10 @@ __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard  
-* __Lab:__   [Lab12]; Lab12-sol see Blackboard     
-* __Quiz:__   Quiz12   see Blackboard     
+* __Lab:__   [Lab12] (for sols see Blackboard)  
+* __Quiz:__   Quiz12   (see Blackboard)  
 * __Assignment:__
-    * Assignment 6  due Tuesday 11/23, 11pm
+    * Assignment 7  due Sunday 11/21, 11pm
   
  ***
  
@@ -328,10 +328,10 @@ __Resources:__
 * __Lecture notes:__ _(none this week)_
    * __Slides and videos:__     _(none this week)_ 
    * __Precheck:__  _(none this week)_ 
-* __Lab:__   [Lab13]; Lab13-sol see Blackboard   
+* __Lab:__   [Lab13] (for sols see Blackboard)   
 * __Quiz:__      _(none this week)_         
 * __Assignment:__
-    * Assignment 6  due Tuesday 11/23, 11pm  
+    * _(none this week)_ 
  ***
  
  
@@ -348,10 +348,10 @@ __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-*  __Lab:__   [Lab14]; Lab14-sol see Blackboard   
-* __Quiz:__   Quiz14   see Blackboard     
+*  __Lab:__   [Lab14]; (for sols see Blackboard)
+* __Quiz:__   Quiz14   (see Blackboard)    
 * __Assignment:__
-    * Assignment 7  posted, due end of week 15 (last day of classes)
+    * Assignment 8  due end of this week 
                    
  ***
  
@@ -372,10 +372,10 @@ __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab15]; Lab15-sol see Blackboard   
+* __Lab:__   [Lab15]  (for sols see Blackboard)
 * __Quiz:__   Quiz15   see Blackboard     
 * __Assignment:__
-    * Assignment 7  due end of this week 
+    * Assignment 9  due end of this week 
                       
 ***
 
