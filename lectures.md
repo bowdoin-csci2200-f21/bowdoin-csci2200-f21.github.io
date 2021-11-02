@@ -264,8 +264,7 @@ __Resources:__
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab10](docs/week10-lab.pdf) (for sols see BB)
 * __Quiz:__    Quiz10  (see Blackboard)
-* __Assignment:__
-    * Assignment 5  due this week (Sunday 11/7)
+* __Assignment:__ Assignment 5  due this week (Sunday 11/7)
 
 ***
 
@@ -288,9 +287,9 @@ __Resources:__
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab11] (for sols see Blackboard)
 * __Quiz:__    Quiz11  (see Blackboard)
-* __Assignment:__
-    * Assignment 6  due this week (Sunday 11/14)     
- ***
+* __Assignment:__ Assignment 6  due this week (Sunday 11/14)     
+
+***
  
  
  
@@ -311,8 +310,7 @@ __Resources:__
    * __Precheck:__  see Blackboard  
 * __Lab:__   [Lab12] (for sols see Blackboard)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__
-    * Assignment 7  due Sunday 11/21, 11pm
+* __Assignment:__ Assignment 7  due this week (Sunday 11/21, 11pm)
   
  ***
  
