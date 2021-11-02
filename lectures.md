@@ -260,7 +260,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * At this point the problems we've seen should feel familiar, and the goal is be  to be able to come up with the algorithms on your own. 
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf)
+* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab10](docs/week10-lab.pdf) (for sols see BB)
