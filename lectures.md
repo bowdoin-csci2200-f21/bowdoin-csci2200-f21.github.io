@@ -293,7 +293,7 @@ __Resources:__
  
  
  
-### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths basics.  
+### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
 _Nov 15-19_
 
 This week  we introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
@@ -303,6 +303,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand  the concept of topological order
 * Understand the algorithms for computing topological order 
 * Use topological order for dynamic programming on DAGs
+* Understand the properties of shortest paths and how SP can be computed on a DAG
 
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
@@ -315,20 +316,9 @@ __Resources:__
  ***
  
  
-### Week 13 :  Shortest paths on DAGs.  
-_Nov 22 (note: Thanksgiving break 11/23-26)_
+### Week 13 : _Thanksgiving break 11/23-26_    
 
-__Objectives:__ 
-* Understand the properties of shortest paths and how SP can be computed on a DAG
 
-__Resources:__
-* __Lecture notes:__ _(none this week)_
-   * __Slides and videos:__     _(none this week)_ 
-   * __Precheck:__  _(none this week)_ 
-* __Lab:__   [Lab13] (for sols see Blackboard)   
-* __Quiz:__      _(none this week)_         
-* __Assignment:__
-    * _(none this week)_ 
  ***
  
  
