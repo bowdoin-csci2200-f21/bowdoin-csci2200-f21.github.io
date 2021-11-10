@@ -22,7 +22,7 @@ __Resources:__
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
-  *  __Lab:__   [Lab 1](docs/week1-lab.pdf) (for Lab1-sol see Blackboard)
+  *  __Lab:__   [Lab 1](docs/week1-lab.pdf) (for sols see BB)
   * __Quiz:__    Quiz1  see Blackboard 
   * __Assignment:__ Assignment1 posted on Gradescope (due end of week 3, by Sunday 9/19)
   
@@ -60,7 +60,7 @@ __Resources:__
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
        * __Slides and videos:__ see Blackboard      
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf) (for Lab2-sol see Blackboard)
+  * __Lab:__   [Lab2](docs/week2-lab.pdf) (for sols see BB)
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__ work on Assignment 1  
   
@@ -85,7 +85,7 @@ __Resources:__
   * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard     
-  * __Lab:__   [Lab3](docs/week3-lab.pdf) (for Lab3-sol see Blackboard)
+  * __Lab:__   [Lab3](docs/week3-lab.pdf) (for sols see BB)
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__
      * Assignment 1 due end of this week (by Sunday 9/19)
@@ -112,8 +112,7 @@ __Resources:__
 	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 	* __Videos:__   see Blackboard  
 	* __Precheck:__  see Blackboard
-	* __Lab:__   [Lab4](docs/week4-lab.pdf) (for Lab4-sol see
-    Blackboard)
+	* __Lab:__   [Lab4](docs/week4-lab.pdf) (for sols see Blackboard)
 	* __Quiz:__      Quiz4 see Blackboard
 	* __Assignment:__
      * Assignment 2  due end of this week (due by Sunday 9/26)
@@ -139,7 +138,7 @@ __Resources:__
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
- * __Lab:__   [Lab5](docs/week5-lab.pdf); Lab5-sol see Blackboard  
+ * __Lab:__   [Lab5](docs/week5-lab.pdf) (for sols see BB)
  * __Quiz:__      Quiz5 see Blackboard
  * __Assignment:__ Assignment 3  due end of next week (by Friday 10/8)
  *          
@@ -165,7 +164,7 @@ __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab6](docs/week6-lab.pdf); Lab6-sol see Blackboard   
+  * __Lab:__   [Lab6](docs/week6-lab.pdf) (for sols see BB)
   * __Quiz:__    Quiz6  see Blackboard
   * __Assignment:__
       * Assignment 3  due end of this week (due by Friday 10/8)
@@ -191,7 +190,7 @@ __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab7](docs/week7-lab.pdf); Lab7-sol see Blackboard   
+  * __Lab:__   [Lab7](docs/week7-lab.pdf) (for sols see BB)
   * __Quiz:__      Quiz7 see Blackboard
   * __Assignment:__
       * Assignment 4  due  by Friday 10/29)
@@ -215,7 +214,7 @@ __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab8](docs/week8-lab.pdf); Lab8-sol see Blackboard   
+* __Lab:__   [Lab8](docs/week8-lab.pdf) (for sols see BB)
 * __Quiz:__    Quiz8  see Blackboard
 * __Assignment:__
     * Assignment 4  due next week by Friday 10/29  
@@ -239,7 +238,7 @@ __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab9](docs/week9-lab.pdf); Lab9-sol see Blackboard   
+* __Lab:__   [Lab9](docs/week9-lab.pdf) (for sols see BB)
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
     * Assignment 4  due by Friday 10/29
@@ -260,13 +259,12 @@ __Objectives:__ By the end of this  week you should be able to:
 * At this point the problems we've seen should feel familiar, and the goal is be  to be able to come up with the algorithms on your own. 
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf)
+* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab10](docs/week10-lab.pdf) (for sols see BB)
-* __Quiz:__    Quiz10  (see Blackboard)
-* __Assignment:__
-    * Assignment 5  due this week (Sunday 11/7)
+* __Quiz:__   <del> Quiz10  (see Blackboard)</del>
+* __Assignment:__ Assignment 5  due this week (Sunday 11/7)
 
 ***
 
@@ -289,13 +287,13 @@ __Resources:__
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab11] (for sols see Blackboard)
 * __Quiz:__    Quiz11  (see Blackboard)
-* __Assignment:__
-    * Assignment 6  due this week (Sunday 11/14)     
- ***
+* __Assignment:__ Assignment 6  due this week (Sunday 11/14)     
+
+***
  
  
  
-### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths basics.  
+### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
 _Nov 15-19_
 
 This week  we introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
@@ -305,6 +303,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand  the concept of topological order
 * Understand the algorithms for computing topological order 
 * Use topological order for dynamic programming on DAGs
+* Understand the properties of shortest paths and how SP can be computed on a DAG
 
 __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
@@ -312,26 +311,14 @@ __Resources:__
    * __Precheck:__  see Blackboard  
 * __Lab:__   [Lab12] (for sols see Blackboard)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__
-    * Assignment 7  due Sunday 11/21, 11pm
+* __Assignment:__ Assignment 7  due this week (Sunday 11/21, 11pm)
   
  ***
  
  
-### Week 13 :  Shortest paths on DAGs.  
-_Nov 22 (note: Thanksgiving break 11/23-26)_
+### Week 13 : _Thanksgiving break 11/23-26_    
 
-__Objectives:__ 
-* Understand the properties of shortest paths and how SP can be computed on a DAG
 
-__Resources:__
-* __Lecture notes:__ _(none this week)_
-   * __Slides and videos:__     _(none this week)_ 
-   * __Precheck:__  _(none this week)_ 
-* __Lab:__   [Lab13] (for sols see Blackboard)   
-* __Quiz:__      _(none this week)_         
-* __Assignment:__
-    * _(none this week)_ 
  ***
  
  
