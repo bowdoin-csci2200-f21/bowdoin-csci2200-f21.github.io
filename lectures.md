@@ -285,7 +285,7 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab11] (for sols see Blackboard)
+* __Lab:__   [Lab11](docs/week11-lab.pdf) (for sols see Blackboard)
 * __Quiz:__    Quiz11  (see Blackboard)
 * __Assignment:__ Assignment 6  due this week (Sunday 11/14)     
 
@@ -309,9 +309,9 @@ __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard  
-* __Lab:__   [Lab12] (for sols see Blackboard)  
+* __Lab:__   [Lab12](docs/week12-lab.pdf) (for sols see Blackboard)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__ Assignment 7  due this week (Sunday 11/21, 11pm)
+* __Assignment:__ [Assignment 7](docs/hw7.pdf)  due this week (Sunday 11/21, 11pm)
   
  ***
  
@@ -338,7 +338,7 @@ __Resources:__
 *  __Lab:__   [Lab14]; (for sols see Blackboard)
 * __Quiz:__   Quiz14   (see Blackboard)    
 * __Assignment:__
-    * Assignment 8  due end of this week 
+    * [Assignment 8](docs/hw8.pdf)  due end of this week 
                    
  ***
  
