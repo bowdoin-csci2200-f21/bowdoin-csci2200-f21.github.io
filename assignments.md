@@ -25,8 +25,8 @@ The problems in the assignments have been carefully chosen in order to provide a
 | [Assignment 4](/docs/hw4.pdf) | (due: end of week 9) |
 | [Assignment 5](/docs/hw5.pdf) | (due: end of week 10) |
 | [Assignment 6](/docs/hw6.pdf) | (due: end of week 11) |
-| [Assignment 7] | (due: end of week 12) |
-| [Assignment 8] | (due: end of week 14) |
+| [Assignment 7](docs/hw7.pdf) | (due: end of week 12) |
+| [Assignment 8](docs/hw8.pdf) | (due: end of week 14) |
 | Assignment 9 | (due: end of week 15) |
 
 
