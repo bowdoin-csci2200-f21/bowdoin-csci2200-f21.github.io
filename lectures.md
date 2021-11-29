@@ -311,7 +311,7 @@ __Resources:__
    * __Precheck:__  see Blackboard  
 * __Lab:__   [Lab12](docs/week12-lab.pdf) (for sols see Blackboard)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__ Assignment 7  due this week (Sunday 11/21, 11pm)
+* __Assignment:__ [Assignment 7](docs/hw7.pdf)  due this week (Sunday 11/21, 11pm)
   
  ***
  
@@ -338,7 +338,7 @@ __Resources:__
 *  __Lab:__   [Lab14]; (for sols see Blackboard)
 * __Quiz:__   Quiz14   (see Blackboard)    
 * __Assignment:__
-    * Assignment 8  due end of this week 
+    * [Assignment 8](docs/hw8.pdf)  due end of this week 
                    
  ***
  
