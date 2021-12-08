@@ -335,7 +335,7 @@ __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-*  __Lab:__   [Lab14]; (for sols see Blackboard)
+*  __Lab:__   [Lab14](docs/week14-lab.pdf) (for sols see Blackboard)
 * __Quiz:__   Quiz14   (see Blackboard)    
 * __Assignment:__
     * [Assignment 8](docs/hw8.pdf)  due end of this week 
