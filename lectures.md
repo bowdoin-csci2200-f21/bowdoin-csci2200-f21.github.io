@@ -359,8 +359,8 @@ __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab15]  (for sols see Blackboard)
-* __Quiz:__   Quiz15   see Blackboard     
+* __Lab:__   [Lab15](docs/week15-lab.pdf)  (for sols see Blackboard)
+* __Quiz:__   Quiz15    
 * __Assignment:__
     * Assignment 9  due end of this week 
                       
